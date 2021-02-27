@@ -30,7 +30,7 @@ If you find our project useful, please cite our paper
 |                  [TID2008](http://www.ponomarenko.info/tid2008.htm)                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |                  [TID2013](http://www.ponomarenko.info/tid2013.htm)                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |           [CSIQ](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23)            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
-|              [CIDIQ-MOS100](https://www.ntnu.edu/web/colourlab/software)              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
+|              [CIDIQ_MOS100](https://www.ntnu.edu/web/colourlab/software)              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |               [MDID2013](https://ieeexplore.ieee.org/document/6879255)                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |  [MDID2016](https://www.sciencedirect.com/science/article/abs/pii/S0031320316301911)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |           [SDIVL](http://www.ivl.disco.unimib.it/activities/imagequality/)            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
