@@ -75,5 +75,7 @@ If you find our project useful, please cite our paper
 
 #### TODO
 
-- [ ] Add support for the [IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/) dataset.
+- [ ] Add TensorFlow support
+- [ ] Add MATLAB support
 - [ ] Provide more attributes if available.
+- [ ] Add support for the [IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/) dataset.
