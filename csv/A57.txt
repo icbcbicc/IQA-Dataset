@@ -1,0 +1,55 @@
+dis_img_path,dis_type,ref_img_path,score
+A57/images/dst_imgs/horse/A/horse.FLT.bmp,Quantization_Noise,A57/images/src_imgs/horse.bmp,0.525
+A57/images/dst_imgs/horse/A/horse.JPG.bmp,JPEG,A57/images/src_imgs/horse.bmp,0.108
+A57/images/dst_imgs/horse/A/horse.JP2.bmp,JP2K,A57/images/src_imgs/horse.bmp,0.187
+A57/images/dst_imgs/horse/A/horse.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/horse.bmp,0.137
+A57/images/dst_imgs/horse/A/horse.BLR.bmp,GBLUR,A57/images/src_imgs/horse.bmp,0.191
+A57/images/dst_imgs/horse/A/horse.NOZ.bmp,AWGN,A57/images/src_imgs/horse.bmp,0.327
+A57/images/dst_imgs/horse/B/horse.FLT.bmp,Quantization_Noise,A57/images/src_imgs/horse.bmp,0.681
+A57/images/dst_imgs/horse/B/horse.JPG.bmp,JPEG,A57/images/src_imgs/horse.bmp,0.533
+A57/images/dst_imgs/horse/B/horse.JP2.bmp,JP2K,A57/images/src_imgs/horse.bmp,0.508
+A57/images/dst_imgs/horse/B/horse.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/horse.bmp,0.165
+A57/images/dst_imgs/horse/B/horse.BLR.bmp,GBLUR,A57/images/src_imgs/horse.bmp,0.267
+A57/images/dst_imgs/horse/B/horse.NOZ.bmp,AWGN,A57/images/src_imgs/horse.bmp,0.367
+A57/images/dst_imgs/horse/C/horse.FLT.bmp,Quantization_Noise,A57/images/src_imgs/horse.bmp,0.979
+A57/images/dst_imgs/horse/C/horse.JPG.bmp,JPEG,A57/images/src_imgs/horse.bmp,0.871
+A57/images/dst_imgs/horse/C/horse.JP2.bmp,JP2K,A57/images/src_imgs/horse.bmp,0.827
+A57/images/dst_imgs/horse/C/horse.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/horse.bmp,0.802
+A57/images/dst_imgs/horse/C/horse.BLR.bmp,GBLUR,A57/images/src_imgs/horse.bmp,0.849
+A57/images/dst_imgs/horse/C/horse.NOZ.bmp,AWGN,A57/images/src_imgs/horse.bmp,0.446
+A57/images/dst_imgs/harbour/A/harbour.FLT.bmp,Quantization_Noise,A57/images/src_imgs/harbour.bmp,0.619
+A57/images/dst_imgs/harbour/A/harbour.JPG.bmp,JPEG,A57/images/src_imgs/harbour.bmp,0.112
+A57/images/dst_imgs/harbour/A/harbour.JP2.bmp,JP2K,A57/images/src_imgs/harbour.bmp,0.339
+A57/images/dst_imgs/harbour/A/harbour.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/harbour.bmp,0.112
+A57/images/dst_imgs/harbour/A/harbour.BLR.bmp,GBLUR,A57/images/src_imgs/harbour.bmp,0.164
+A57/images/dst_imgs/harbour/A/harbour.NOZ.bmp,AWGN,A57/images/src_imgs/harbour.bmp,0.28
+A57/images/dst_imgs/harbour/B/harbour.FLT.bmp,Quantization_Noise,A57/images/src_imgs/harbour.bmp,0.836
+A57/images/dst_imgs/harbour/B/harbour.JPG.bmp,JPEG,A57/images/src_imgs/harbour.bmp,0.336
+A57/images/dst_imgs/harbour/B/harbour.JP2.bmp,JP2K,A57/images/src_imgs/harbour.bmp,0.589
+A57/images/dst_imgs/harbour/B/harbour.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/harbour.bmp,0.168
+A57/images/dst_imgs/harbour/B/harbour.BLR.bmp,GBLUR,A57/images/src_imgs/harbour.bmp,0.28
+A57/images/dst_imgs/harbour/B/harbour.NOZ.bmp,AWGN,A57/images/src_imgs/harbour.bmp,0.372
+A57/images/dst_imgs/harbour/C/harbour.FLT.bmp,Quantization_Noise,A57/images/src_imgs/harbour.bmp,1
+A57/images/dst_imgs/harbour/C/harbour.JPG.bmp,JPEG,A57/images/src_imgs/harbour.bmp,0.664
+A57/images/dst_imgs/harbour/C/harbour.JP2.bmp,JP2K,A57/images/src_imgs/harbour.bmp,0.701
+A57/images/dst_imgs/harbour/C/harbour.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/harbour.bmp,0.418
+A57/images/dst_imgs/harbour/C/harbour.BLR.bmp,GBLUR,A57/images/src_imgs/harbour.bmp,0.503
+A57/images/dst_imgs/harbour/C/harbour.NOZ.bmp,AWGN,A57/images/src_imgs/harbour.bmp,0.51
+A57/images/dst_imgs/baby/A/baby.FLT.bmp,Quantization_Noise,A57/images/src_imgs/baby.bmp,0.233
+A57/images/dst_imgs/baby/A/baby.JPG.bmp,JPEG,A57/images/src_imgs/baby.bmp,0.15
+A57/images/dst_imgs/baby/A/baby.JP2.bmp,JP2K,A57/images/src_imgs/baby.bmp,0.143
+A57/images/dst_imgs/baby/A/baby.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/baby.bmp,0.145
+A57/images/dst_imgs/baby/A/baby.BLR.bmp,GBLUR,A57/images/src_imgs/baby.bmp,0.268
+A57/images/dst_imgs/baby/A/baby.NOZ.bmp,AWGN,A57/images/src_imgs/baby.bmp,0.089
+A57/images/dst_imgs/baby/B/baby.FLT.bmp,Quantization_Noise,A57/images/src_imgs/baby.bmp,0.396
+A57/images/dst_imgs/baby/B/baby.JPG.bmp,JPEG,A57/images/src_imgs/baby.bmp,0.418
+A57/images/dst_imgs/baby/B/baby.JP2.bmp,JP2K,A57/images/src_imgs/baby.bmp,0.283
+A57/images/dst_imgs/baby/B/baby.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/baby.bmp,0.349
+A57/images/dst_imgs/baby/B/baby.BLR.bmp,GBLUR,A57/images/src_imgs/baby.bmp,0.38
+A57/images/dst_imgs/baby/B/baby.NOZ.bmp,AWGN,A57/images/src_imgs/baby.bmp,0.141
+A57/images/dst_imgs/baby/C/baby.FLT.bmp,Quantization_Noise,A57/images/src_imgs/baby.bmp,0.598
+A57/images/dst_imgs/baby/C/baby.JPG.bmp,JPEG,A57/images/src_imgs/baby.bmp,0.63
+A57/images/dst_imgs/baby/C/baby.JP2.bmp,JP2K,A57/images/src_imgs/baby.bmp,0.612
+A57/images/dst_imgs/baby/C/baby.DCQ.bmp,Multiply Dist.,A57/images/src_imgs/baby.bmp,0.474
+A57/images/dst_imgs/baby/C/baby.BLR.bmp,GBLUR,A57/images/src_imgs/baby.bmp,0.473
+A57/images/dst_imgs/baby/C/baby.NOZ.bmp,AWGN,A57/images/src_imgs/baby.bmp,0.206

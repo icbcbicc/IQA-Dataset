@@ -1,0 +1,867 @@
+dis_img_path,dis_type,ref_img_path,score
+CSIQ/dst_imgs/AWGN/1600.AWGN.1.png,AWGN,CSIQ/src_imgs/1600.png,0.061989
+CSIQ/dst_imgs/AWGN/1600.AWGN.2.png,AWGN,CSIQ/src_imgs/1600.png,0.20624
+CSIQ/dst_imgs/AWGN/1600.AWGN.3.png,AWGN,CSIQ/src_imgs/1600.png,0.26212
+CSIQ/dst_imgs/AWGN/1600.AWGN.4.png,AWGN,CSIQ/src_imgs/1600.png,0.37463
+CSIQ/dst_imgs/AWGN/1600.AWGN.5.png,AWGN,CSIQ/src_imgs/1600.png,0.46748
+CSIQ/dst_imgs/AWGN/aerial_city.AWGN.1.png,AWGN,CSIQ/src_imgs/aerial_city.png,0.031592
+CSIQ/dst_imgs/AWGN/aerial_city.AWGN.2.png,AWGN,CSIQ/src_imgs/aerial_city.png,0.12514
+CSIQ/dst_imgs/AWGN/aerial_city.AWGN.3.png,AWGN,CSIQ/src_imgs/aerial_city.png,0.24496
+CSIQ/dst_imgs/AWGN/aerial_city.AWGN.4.png,AWGN,CSIQ/src_imgs/aerial_city.png,0.37295
+CSIQ/dst_imgs/AWGN/aerial_city.AWGN.5.png,AWGN,CSIQ/src_imgs/aerial_city.png,0.50126
+CSIQ/dst_imgs/AWGN/boston.AWGN.1.png,AWGN,CSIQ/src_imgs/boston.png,0.029159
+CSIQ/dst_imgs/AWGN/boston.AWGN.2.png,AWGN,CSIQ/src_imgs/boston.png,0.081368
+CSIQ/dst_imgs/AWGN/boston.AWGN.3.png,AWGN,CSIQ/src_imgs/boston.png,0.2155
+CSIQ/dst_imgs/AWGN/boston.AWGN.4.png,AWGN,CSIQ/src_imgs/boston.png,0.38312
+CSIQ/dst_imgs/AWGN/boston.AWGN.5.png,AWGN,CSIQ/src_imgs/boston.png,0.47159
+CSIQ/dst_imgs/AWGN/bridge.AWGN.1.png,AWGN,CSIQ/src_imgs/bridge.png,0.027782
+CSIQ/dst_imgs/AWGN/bridge.AWGN.2.png,AWGN,CSIQ/src_imgs/bridge.png,0.087857
+CSIQ/dst_imgs/AWGN/bridge.AWGN.3.png,AWGN,CSIQ/src_imgs/bridge.png,0.25179
+CSIQ/dst_imgs/AWGN/bridge.AWGN.4.png,AWGN,CSIQ/src_imgs/bridge.png,0.4087
+CSIQ/dst_imgs/AWGN/bridge.AWGN.5.png,AWGN,CSIQ/src_imgs/bridge.png,0.51701
+CSIQ/dst_imgs/AWGN/butter_flower.AWGN.1.png,AWGN,CSIQ/src_imgs/butter_flower.png,0.026574
+CSIQ/dst_imgs/AWGN/butter_flower.AWGN.2.png,AWGN,CSIQ/src_imgs/butter_flower.png,0.089165
+CSIQ/dst_imgs/AWGN/butter_flower.AWGN.3.png,AWGN,CSIQ/src_imgs/butter_flower.png,0.2523
+CSIQ/dst_imgs/AWGN/butter_flower.AWGN.4.png,AWGN,CSIQ/src_imgs/butter_flower.png,0.43489
+CSIQ/dst_imgs/AWGN/butter_flower.AWGN.5.png,AWGN,CSIQ/src_imgs/butter_flower.png,0.54527
+CSIQ/dst_imgs/AWGN/cactus.AWGN.1.png,AWGN,CSIQ/src_imgs/cactus.png,0.10433
+CSIQ/dst_imgs/AWGN/cactus.AWGN.2.png,AWGN,CSIQ/src_imgs/cactus.png,0.20571
+CSIQ/dst_imgs/AWGN/cactus.AWGN.3.png,AWGN,CSIQ/src_imgs/cactus.png,0.34944
+CSIQ/dst_imgs/AWGN/cactus.AWGN.4.png,AWGN,CSIQ/src_imgs/cactus.png,0.43917
+CSIQ/dst_imgs/AWGN/cactus.AWGN.5.png,AWGN,CSIQ/src_imgs/cactus.png,0.49839
+CSIQ/dst_imgs/AWGN/child_swimming.AWGN.1.png,AWGN,CSIQ/src_imgs/child_swimming.png,0.028457
+CSIQ/dst_imgs/AWGN/child_swimming.AWGN.2.png,AWGN,CSIQ/src_imgs/child_swimming.png,0.12021
+CSIQ/dst_imgs/AWGN/child_swimming.AWGN.3.png,AWGN,CSIQ/src_imgs/child_swimming.png,0.2716
+CSIQ/dst_imgs/AWGN/child_swimming.AWGN.4.png,AWGN,CSIQ/src_imgs/child_swimming.png,0.41269
+CSIQ/dst_imgs/AWGN/child_swimming.AWGN.5.png,AWGN,CSIQ/src_imgs/child_swimming.png,0.48856
+CSIQ/dst_imgs/AWGN/couple.AWGN.1.png,AWGN,CSIQ/src_imgs/couple.png,0.0055386
+CSIQ/dst_imgs/AWGN/couple.AWGN.2.png,AWGN,CSIQ/src_imgs/couple.png,0.10903
+CSIQ/dst_imgs/AWGN/couple.AWGN.3.png,AWGN,CSIQ/src_imgs/couple.png,0.20436
+CSIQ/dst_imgs/AWGN/couple.AWGN.4.png,AWGN,CSIQ/src_imgs/couple.png,0.32523
+CSIQ/dst_imgs/AWGN/couple.AWGN.5.png,AWGN,CSIQ/src_imgs/couple.png,0.46961
+CSIQ/dst_imgs/AWGN/elk.AWGN.1.png,AWGN,CSIQ/src_imgs/elk.png,0.03332
+CSIQ/dst_imgs/AWGN/elk.AWGN.2.png,AWGN,CSIQ/src_imgs/elk.png,0.065236
+CSIQ/dst_imgs/AWGN/elk.AWGN.3.png,AWGN,CSIQ/src_imgs/elk.png,0.1719
+CSIQ/dst_imgs/AWGN/elk.AWGN.4.png,AWGN,CSIQ/src_imgs/elk.png,0.23654
+CSIQ/dst_imgs/AWGN/elk.AWGN.5.png,AWGN,CSIQ/src_imgs/elk.png,0.35794
+CSIQ/dst_imgs/AWGN/family.AWGN.1.png,AWGN,CSIQ/src_imgs/family.png,0.087792
+CSIQ/dst_imgs/AWGN/family.AWGN.2.png,AWGN,CSIQ/src_imgs/family.png,0.14968
+CSIQ/dst_imgs/AWGN/family.AWGN.3.png,AWGN,CSIQ/src_imgs/family.png,0.27474
+CSIQ/dst_imgs/AWGN/family.AWGN.4.png,AWGN,CSIQ/src_imgs/family.png,0.37535
+CSIQ/dst_imgs/AWGN/family.AWGN.5.png,AWGN,CSIQ/src_imgs/family.png,0.47959
+CSIQ/dst_imgs/AWGN/fisher.AWGN.1.png,AWGN,CSIQ/src_imgs/fisher.png,0.052354
+CSIQ/dst_imgs/AWGN/fisher.AWGN.2.png,AWGN,CSIQ/src_imgs/fisher.png,0.13022
+CSIQ/dst_imgs/AWGN/fisher.AWGN.3.png,AWGN,CSIQ/src_imgs/fisher.png,0.21647
+CSIQ/dst_imgs/AWGN/fisher.AWGN.4.png,AWGN,CSIQ/src_imgs/fisher.png,0.31214
+CSIQ/dst_imgs/AWGN/fisher.AWGN.5.png,AWGN,CSIQ/src_imgs/fisher.png,0.44032
+CSIQ/dst_imgs/AWGN/foxy.AWGN.1.png,AWGN,CSIQ/src_imgs/foxy.png,0.013529
+CSIQ/dst_imgs/AWGN/foxy.AWGN.2.png,AWGN,CSIQ/src_imgs/foxy.png,0.063617
+CSIQ/dst_imgs/AWGN/foxy.AWGN.3.png,AWGN,CSIQ/src_imgs/foxy.png,0.13647
+CSIQ/dst_imgs/AWGN/foxy.AWGN.4.png,AWGN,CSIQ/src_imgs/foxy.png,0.25045
+CSIQ/dst_imgs/AWGN/foxy.AWGN.5.png,AWGN,CSIQ/src_imgs/foxy.png,0.38116
+CSIQ/dst_imgs/AWGN/geckos.AWGN.1.png,AWGN,CSIQ/src_imgs/geckos.png,0.028506
+CSIQ/dst_imgs/AWGN/geckos.AWGN.2.png,AWGN,CSIQ/src_imgs/geckos.png,0.060272
+CSIQ/dst_imgs/AWGN/geckos.AWGN.3.png,AWGN,CSIQ/src_imgs/geckos.png,0.11669
+CSIQ/dst_imgs/AWGN/geckos.AWGN.4.png,AWGN,CSIQ/src_imgs/geckos.png,0.20186
+CSIQ/dst_imgs/AWGN/geckos.AWGN.5.png,AWGN,CSIQ/src_imgs/geckos.png,0.33619
+CSIQ/dst_imgs/AWGN/lady_liberty.AWGN.1.png,AWGN,CSIQ/src_imgs/lady_liberty.png,0.032476
+CSIQ/dst_imgs/AWGN/lady_liberty.AWGN.2.png,AWGN,CSIQ/src_imgs/lady_liberty.png,0.15106
+CSIQ/dst_imgs/AWGN/lady_liberty.AWGN.3.png,AWGN,CSIQ/src_imgs/lady_liberty.png,0.25461
+CSIQ/dst_imgs/AWGN/lady_liberty.AWGN.4.png,AWGN,CSIQ/src_imgs/lady_liberty.png,0.38417
+CSIQ/dst_imgs/AWGN/lady_liberty.AWGN.5.png,AWGN,CSIQ/src_imgs/lady_liberty.png,0.48748
+CSIQ/dst_imgs/AWGN/lake.AWGN.1.png,AWGN,CSIQ/src_imgs/lake.png,0.02214
+CSIQ/dst_imgs/AWGN/lake.AWGN.2.png,AWGN,CSIQ/src_imgs/lake.png,0.13692
+CSIQ/dst_imgs/AWGN/lake.AWGN.3.png,AWGN,CSIQ/src_imgs/lake.png,0.2953
+CSIQ/dst_imgs/AWGN/lake.AWGN.4.png,AWGN,CSIQ/src_imgs/lake.png,0.43724
+CSIQ/dst_imgs/AWGN/lake.AWGN.5.png,AWGN,CSIQ/src_imgs/lake.png,0.53612
+CSIQ/dst_imgs/AWGN/log_seaside.AWGN.1.png,AWGN,CSIQ/src_imgs/log_seaside.png,0
+CSIQ/dst_imgs/AWGN/log_seaside.AWGN.2.png,AWGN,CSIQ/src_imgs/log_seaside.png,0.056561
+CSIQ/dst_imgs/AWGN/log_seaside.AWGN.3.png,AWGN,CSIQ/src_imgs/log_seaside.png,0.13185
+CSIQ/dst_imgs/AWGN/log_seaside.AWGN.4.png,AWGN,CSIQ/src_imgs/log_seaside.png,0.26747
+CSIQ/dst_imgs/AWGN/log_seaside.AWGN.5.png,AWGN,CSIQ/src_imgs/log_seaside.png,0.44176
+CSIQ/dst_imgs/AWGN/monument.AWGN.1.png,AWGN,CSIQ/src_imgs/monument.png,0.012407
+CSIQ/dst_imgs/AWGN/monument.AWGN.2.png,AWGN,CSIQ/src_imgs/monument.png,0.08107
+CSIQ/dst_imgs/AWGN/monument.AWGN.3.png,AWGN,CSIQ/src_imgs/monument.png,0.18327
+CSIQ/dst_imgs/AWGN/monument.AWGN.4.png,AWGN,CSIQ/src_imgs/monument.png,0.32476
+CSIQ/dst_imgs/AWGN/monument.AWGN.5.png,AWGN,CSIQ/src_imgs/monument.png,0.46774
+CSIQ/dst_imgs/AWGN/native_american.AWGN.1.png,AWGN,CSIQ/src_imgs/native_american.png,0.040322
+CSIQ/dst_imgs/AWGN/native_american.AWGN.2.png,AWGN,CSIQ/src_imgs/native_american.png,0.06908
+CSIQ/dst_imgs/AWGN/native_american.AWGN.3.png,AWGN,CSIQ/src_imgs/native_american.png,0.22395
+CSIQ/dst_imgs/AWGN/native_american.AWGN.4.png,AWGN,CSIQ/src_imgs/native_american.png,0.4011
+CSIQ/dst_imgs/AWGN/native_american.AWGN.5.png,AWGN,CSIQ/src_imgs/native_american.png,0.47606
+CSIQ/dst_imgs/AWGN/redwood.AWGN.1.png,AWGN,CSIQ/src_imgs/redwood.png,0.050866
+CSIQ/dst_imgs/AWGN/redwood.AWGN.2.png,AWGN,CSIQ/src_imgs/redwood.png,0.18757
+CSIQ/dst_imgs/AWGN/redwood.AWGN.3.png,AWGN,CSIQ/src_imgs/redwood.png,0.3227
+CSIQ/dst_imgs/AWGN/redwood.AWGN.4.png,AWGN,CSIQ/src_imgs/redwood.png,0.43156
+CSIQ/dst_imgs/AWGN/redwood.AWGN.5.png,AWGN,CSIQ/src_imgs/redwood.png,0.54484
+CSIQ/dst_imgs/AWGN/roping.AWGN.1.png,AWGN,CSIQ/src_imgs/roping.png,0.0025008
+CSIQ/dst_imgs/AWGN/roping.AWGN.2.png,AWGN,CSIQ/src_imgs/roping.png,0.10503
+CSIQ/dst_imgs/AWGN/roping.AWGN.3.png,AWGN,CSIQ/src_imgs/roping.png,0.18452
+CSIQ/dst_imgs/AWGN/roping.AWGN.4.png,AWGN,CSIQ/src_imgs/roping.png,0.38188
+CSIQ/dst_imgs/AWGN/roping.AWGN.5.png,AWGN,CSIQ/src_imgs/roping.png,0.51308
+CSIQ/dst_imgs/AWGN/rushmore.AWGN.1.png,AWGN,CSIQ/src_imgs/rushmore.png,0.032498
+CSIQ/dst_imgs/AWGN/rushmore.AWGN.2.png,AWGN,CSIQ/src_imgs/rushmore.png,0.131
+CSIQ/dst_imgs/AWGN/rushmore.AWGN.3.png,AWGN,CSIQ/src_imgs/rushmore.png,0.2589
+CSIQ/dst_imgs/AWGN/rushmore.AWGN.4.png,AWGN,CSIQ/src_imgs/rushmore.png,0.38189
+CSIQ/dst_imgs/AWGN/rushmore.AWGN.5.png,AWGN,CSIQ/src_imgs/rushmore.png,0.5126
+CSIQ/dst_imgs/AWGN/shroom.AWGN.1.png,AWGN,CSIQ/src_imgs/shroom.png,0.031449
+CSIQ/dst_imgs/AWGN/shroom.AWGN.2.png,AWGN,CSIQ/src_imgs/shroom.png,0.1356
+CSIQ/dst_imgs/AWGN/shroom.AWGN.3.png,AWGN,CSIQ/src_imgs/shroom.png,0.23673
+CSIQ/dst_imgs/AWGN/shroom.AWGN.4.png,AWGN,CSIQ/src_imgs/shroom.png,0.35514
+CSIQ/dst_imgs/AWGN/shroom.AWGN.5.png,AWGN,CSIQ/src_imgs/shroom.png,0.46323
+CSIQ/dst_imgs/AWGN/snow_leaves.AWGN.1.png,AWGN,CSIQ/src_imgs/snow_leaves.png,0.018848
+CSIQ/dst_imgs/AWGN/snow_leaves.AWGN.2.png,AWGN,CSIQ/src_imgs/snow_leaves.png,0.063487
+CSIQ/dst_imgs/AWGN/snow_leaves.AWGN.3.png,AWGN,CSIQ/src_imgs/snow_leaves.png,0.21174
+CSIQ/dst_imgs/AWGN/snow_leaves.AWGN.4.png,AWGN,CSIQ/src_imgs/snow_leaves.png,0.29344
+CSIQ/dst_imgs/AWGN/snow_leaves.AWGN.5.png,AWGN,CSIQ/src_imgs/snow_leaves.png,0.43413
+CSIQ/dst_imgs/AWGN/sunsetcolor.AWGN.1.png,AWGN,CSIQ/src_imgs/sunsetcolor.png,0.039306
+CSIQ/dst_imgs/AWGN/sunsetcolor.AWGN.2.png,AWGN,CSIQ/src_imgs/sunsetcolor.png,0.20556
+CSIQ/dst_imgs/AWGN/sunsetcolor.AWGN.3.png,AWGN,CSIQ/src_imgs/sunsetcolor.png,0.3021
+CSIQ/dst_imgs/AWGN/sunsetcolor.AWGN.4.png,AWGN,CSIQ/src_imgs/sunsetcolor.png,0.4094
+CSIQ/dst_imgs/AWGN/sunsetcolor.AWGN.5.png,AWGN,CSIQ/src_imgs/sunsetcolor.png,0.51515
+CSIQ/dst_imgs/AWGN/sunset_sparrow.AWGN.1.png,AWGN,CSIQ/src_imgs/sunset_sparrow.png,0.042131
+CSIQ/dst_imgs/AWGN/sunset_sparrow.AWGN.2.png,AWGN,CSIQ/src_imgs/sunset_sparrow.png,0.17928
+CSIQ/dst_imgs/AWGN/sunset_sparrow.AWGN.3.png,AWGN,CSIQ/src_imgs/sunset_sparrow.png,0.32555
+CSIQ/dst_imgs/AWGN/sunset_sparrow.AWGN.4.png,AWGN,CSIQ/src_imgs/sunset_sparrow.png,0.45766
+CSIQ/dst_imgs/AWGN/sunset_sparrow.AWGN.5.png,AWGN,CSIQ/src_imgs/sunset_sparrow.png,0.54898
+CSIQ/dst_imgs/AWGN/swarm.AWGN.1.png,AWGN,CSIQ/src_imgs/swarm.png,0.035196
+CSIQ/dst_imgs/AWGN/swarm.AWGN.2.png,AWGN,CSIQ/src_imgs/swarm.png,0.16572
+CSIQ/dst_imgs/AWGN/swarm.AWGN.3.png,AWGN,CSIQ/src_imgs/swarm.png,0.32187
+CSIQ/dst_imgs/AWGN/swarm.AWGN.4.png,AWGN,CSIQ/src_imgs/swarm.png,0.41923
+CSIQ/dst_imgs/AWGN/swarm.AWGN.5.png,AWGN,CSIQ/src_imgs/swarm.png,0.57718
+CSIQ/dst_imgs/AWGN/trolley.AWGN.1.png,AWGN,CSIQ/src_imgs/trolley.png,0.028644
+CSIQ/dst_imgs/AWGN/trolley.AWGN.2.png,AWGN,CSIQ/src_imgs/trolley.png,0.090283
+CSIQ/dst_imgs/AWGN/trolley.AWGN.3.png,AWGN,CSIQ/src_imgs/trolley.png,0.21987
+CSIQ/dst_imgs/AWGN/trolley.AWGN.4.png,AWGN,CSIQ/src_imgs/trolley.png,0.34187
+CSIQ/dst_imgs/AWGN/trolley.AWGN.5.png,AWGN,CSIQ/src_imgs/trolley.png,0.45026
+CSIQ/dst_imgs/AWGN/turtle.AWGN.1.png,AWGN,CSIQ/src_imgs/turtle.png,0.019981
+CSIQ/dst_imgs/AWGN/turtle.AWGN.2.png,AWGN,CSIQ/src_imgs/turtle.png,0.11922
+CSIQ/dst_imgs/AWGN/turtle.AWGN.3.png,AWGN,CSIQ/src_imgs/turtle.png,0.19871
+CSIQ/dst_imgs/AWGN/turtle.AWGN.4.png,AWGN,CSIQ/src_imgs/turtle.png,0.32935
+CSIQ/dst_imgs/AWGN/turtle.AWGN.5.png,AWGN,CSIQ/src_imgs/turtle.png,0.43565
+CSIQ/dst_imgs/AWGN/veggies.AWGN.1.png,AWGN,CSIQ/src_imgs/veggies.png,0.017592
+CSIQ/dst_imgs/AWGN/veggies.AWGN.2.png,AWGN,CSIQ/src_imgs/veggies.png,0.098451
+CSIQ/dst_imgs/AWGN/veggies.AWGN.3.png,AWGN,CSIQ/src_imgs/veggies.png,0.2136
+CSIQ/dst_imgs/AWGN/veggies.AWGN.4.png,AWGN,CSIQ/src_imgs/veggies.png,0.34676
+CSIQ/dst_imgs/AWGN/veggies.AWGN.5.png,AWGN,CSIQ/src_imgs/veggies.png,0.47246
+CSIQ/dst_imgs/AWGN/woman.AWGN.1.png,AWGN,CSIQ/src_imgs/woman.png,0.051841
+CSIQ/dst_imgs/AWGN/woman.AWGN.2.png,AWGN,CSIQ/src_imgs/woman.png,0.19715
+CSIQ/dst_imgs/AWGN/woman.AWGN.3.png,AWGN,CSIQ/src_imgs/woman.png,0.28862
+CSIQ/dst_imgs/AWGN/woman.AWGN.4.png,AWGN,CSIQ/src_imgs/woman.png,0.4091
+CSIQ/dst_imgs/AWGN/woman.AWGN.5.png,AWGN,CSIQ/src_imgs/woman.png,0.48983
+CSIQ/dst_imgs/JPEG/1600.JPEG.1.png,JPEG,CSIQ/src_imgs/1600.png,0.012873
+CSIQ/dst_imgs/JPEG/1600.JPEG.2.png,JPEG,CSIQ/src_imgs/1600.png,0.069148
+CSIQ/dst_imgs/JPEG/1600.JPEG.3.png,JPEG,CSIQ/src_imgs/1600.png,0.19683
+CSIQ/dst_imgs/JPEG/1600.JPEG.4.png,JPEG,CSIQ/src_imgs/1600.png,0.50106
+CSIQ/dst_imgs/JPEG/1600.JPEG.5.png,JPEG,CSIQ/src_imgs/1600.png,0.68713
+CSIQ/dst_imgs/JPEG/aerial_city.JPEG.1.png,JPEG,CSIQ/src_imgs/aerial_city.png,0.030282
+CSIQ/dst_imgs/JPEG/aerial_city.JPEG.2.png,JPEG,CSIQ/src_imgs/aerial_city.png,0.064545
+CSIQ/dst_imgs/JPEG/aerial_city.JPEG.3.png,JPEG,CSIQ/src_imgs/aerial_city.png,0.38889
+CSIQ/dst_imgs/JPEG/aerial_city.JPEG.4.png,JPEG,CSIQ/src_imgs/aerial_city.png,0.60726
+CSIQ/dst_imgs/JPEG/aerial_city.JPEG.5.png,JPEG,CSIQ/src_imgs/aerial_city.png,0.81908
+CSIQ/dst_imgs/JPEG/boston.JPEG.1.png,JPEG,CSIQ/src_imgs/boston.png,0
+CSIQ/dst_imgs/JPEG/boston.JPEG.2.png,JPEG,CSIQ/src_imgs/boston.png,0.049884
+CSIQ/dst_imgs/JPEG/boston.JPEG.3.png,JPEG,CSIQ/src_imgs/boston.png,0.32849
+CSIQ/dst_imgs/JPEG/boston.JPEG.4.png,JPEG,CSIQ/src_imgs/boston.png,0.73694
+CSIQ/dst_imgs/JPEG/boston.JPEG.5.png,JPEG,CSIQ/src_imgs/boston.png,0.83248
+CSIQ/dst_imgs/JPEG/bridge.JPEG.1.png,JPEG,CSIQ/src_imgs/bridge.png,0.037193
+CSIQ/dst_imgs/JPEG/bridge.JPEG.2.png,JPEG,CSIQ/src_imgs/bridge.png,0.075837
+CSIQ/dst_imgs/JPEG/bridge.JPEG.3.png,JPEG,CSIQ/src_imgs/bridge.png,0.27277
+CSIQ/dst_imgs/JPEG/bridge.JPEG.4.png,JPEG,CSIQ/src_imgs/bridge.png,0.74312
+CSIQ/dst_imgs/JPEG/bridge.JPEG.5.png,JPEG,CSIQ/src_imgs/bridge.png,0.81616
+CSIQ/dst_imgs/JPEG/butter_flower.JPEG.1.png,JPEG,CSIQ/src_imgs/butter_flower.png,0.023259
+CSIQ/dst_imgs/JPEG/butter_flower.JPEG.2.png,JPEG,CSIQ/src_imgs/butter_flower.png,0.030891
+CSIQ/dst_imgs/JPEG/butter_flower.JPEG.3.png,JPEG,CSIQ/src_imgs/butter_flower.png,0.40992
+CSIQ/dst_imgs/JPEG/butter_flower.JPEG.4.png,JPEG,CSIQ/src_imgs/butter_flower.png,0.69941
+CSIQ/dst_imgs/JPEG/butter_flower.JPEG.5.png,JPEG,CSIQ/src_imgs/butter_flower.png,0.80809
+CSIQ/dst_imgs/JPEG/cactus.JPEG.1.png,JPEG,CSIQ/src_imgs/cactus.png,0.040969
+CSIQ/dst_imgs/JPEG/cactus.JPEG.2.png,JPEG,CSIQ/src_imgs/cactus.png,0.16046
+CSIQ/dst_imgs/JPEG/cactus.JPEG.3.png,JPEG,CSIQ/src_imgs/cactus.png,0.37842
+CSIQ/dst_imgs/JPEG/cactus.JPEG.4.png,JPEG,CSIQ/src_imgs/cactus.png,0.70414
+CSIQ/dst_imgs/JPEG/cactus.JPEG.5.png,JPEG,CSIQ/src_imgs/cactus.png,0.81172
+CSIQ/dst_imgs/JPEG/child_swimming.JPEG.1.png,JPEG,CSIQ/src_imgs/child_swimming.png,0.02886
+CSIQ/dst_imgs/JPEG/child_swimming.JPEG.2.png,JPEG,CSIQ/src_imgs/child_swimming.png,0.029868
+CSIQ/dst_imgs/JPEG/child_swimming.JPEG.3.png,JPEG,CSIQ/src_imgs/child_swimming.png,0.23553
+CSIQ/dst_imgs/JPEG/child_swimming.JPEG.4.png,JPEG,CSIQ/src_imgs/child_swimming.png,0.51445
+CSIQ/dst_imgs/JPEG/child_swimming.JPEG.5.png,JPEG,CSIQ/src_imgs/child_swimming.png,0.69573
+CSIQ/dst_imgs/JPEG/couple.JPEG.1.png,JPEG,CSIQ/src_imgs/couple.png,0.0021536
+CSIQ/dst_imgs/JPEG/couple.JPEG.2.png,JPEG,CSIQ/src_imgs/couple.png,0.033951
+CSIQ/dst_imgs/JPEG/couple.JPEG.3.png,JPEG,CSIQ/src_imgs/couple.png,0.25809
+CSIQ/dst_imgs/JPEG/couple.JPEG.4.png,JPEG,CSIQ/src_imgs/couple.png,0.58604
+CSIQ/dst_imgs/JPEG/couple.JPEG.5.png,JPEG,CSIQ/src_imgs/couple.png,0.72366
+CSIQ/dst_imgs/JPEG/elk.JPEG.1.png,JPEG,CSIQ/src_imgs/elk.png,0.032371
+CSIQ/dst_imgs/JPEG/elk.JPEG.2.png,JPEG,CSIQ/src_imgs/elk.png,0.0682
+CSIQ/dst_imgs/JPEG/elk.JPEG.3.png,JPEG,CSIQ/src_imgs/elk.png,0.21996
+CSIQ/dst_imgs/JPEG/elk.JPEG.4.png,JPEG,CSIQ/src_imgs/elk.png,0.54967
+CSIQ/dst_imgs/JPEG/elk.JPEG.5.png,JPEG,CSIQ/src_imgs/elk.png,0.71022
+CSIQ/dst_imgs/JPEG/family.JPEG.1.png,JPEG,CSIQ/src_imgs/family.png,0.022005
+CSIQ/dst_imgs/JPEG/family.JPEG.2.png,JPEG,CSIQ/src_imgs/family.png,0.1342
+CSIQ/dst_imgs/JPEG/family.JPEG.3.png,JPEG,CSIQ/src_imgs/family.png,0.64673
+CSIQ/dst_imgs/JPEG/family.JPEG.4.png,JPEG,CSIQ/src_imgs/family.png,0.76177
+CSIQ/dst_imgs/JPEG/family.JPEG.5.png,JPEG,CSIQ/src_imgs/family.png,0.84626
+CSIQ/dst_imgs/JPEG/fisher.JPEG.1.png,JPEG,CSIQ/src_imgs/fisher.png,0.0081089
+CSIQ/dst_imgs/JPEG/fisher.JPEG.2.png,JPEG,CSIQ/src_imgs/fisher.png,0.18049
+CSIQ/dst_imgs/JPEG/fisher.JPEG.3.png,JPEG,CSIQ/src_imgs/fisher.png,0.51785
+CSIQ/dst_imgs/JPEG/fisher.JPEG.4.png,JPEG,CSIQ/src_imgs/fisher.png,0.72455
+CSIQ/dst_imgs/JPEG/fisher.JPEG.5.png,JPEG,CSIQ/src_imgs/fisher.png,0.79068
+CSIQ/dst_imgs/JPEG/foxy.JPEG.1.png,JPEG,CSIQ/src_imgs/foxy.png,0.016044
+CSIQ/dst_imgs/JPEG/foxy.JPEG.2.png,JPEG,CSIQ/src_imgs/foxy.png,0.074939
+CSIQ/dst_imgs/JPEG/foxy.JPEG.3.png,JPEG,CSIQ/src_imgs/foxy.png,0.15416
+CSIQ/dst_imgs/JPEG/foxy.JPEG.4.png,JPEG,CSIQ/src_imgs/foxy.png,0.32204
+CSIQ/dst_imgs/JPEG/foxy.JPEG.5.png,JPEG,CSIQ/src_imgs/foxy.png,0.55107
+CSIQ/dst_imgs/JPEG/geckos.JPEG.1.png,JPEG,CSIQ/src_imgs/geckos.png,0.021995
+CSIQ/dst_imgs/JPEG/geckos.JPEG.2.png,JPEG,CSIQ/src_imgs/geckos.png,0.046741
+CSIQ/dst_imgs/JPEG/geckos.JPEG.3.png,JPEG,CSIQ/src_imgs/geckos.png,0.13477
+CSIQ/dst_imgs/JPEG/geckos.JPEG.4.png,JPEG,CSIQ/src_imgs/geckos.png,0.46255
+CSIQ/dst_imgs/JPEG/geckos.JPEG.5.png,JPEG,CSIQ/src_imgs/geckos.png,0.73437
+CSIQ/dst_imgs/JPEG/lady_liberty.JPEG.1.png,JPEG,CSIQ/src_imgs/lady_liberty.png,0.016972
+CSIQ/dst_imgs/JPEG/lady_liberty.JPEG.2.png,JPEG,CSIQ/src_imgs/lady_liberty.png,0.27351
+CSIQ/dst_imgs/JPEG/lady_liberty.JPEG.3.png,JPEG,CSIQ/src_imgs/lady_liberty.png,0.53166
+CSIQ/dst_imgs/JPEG/lady_liberty.JPEG.4.png,JPEG,CSIQ/src_imgs/lady_liberty.png,0.6545
+CSIQ/dst_imgs/JPEG/lady_liberty.JPEG.5.png,JPEG,CSIQ/src_imgs/lady_liberty.png,0.77032
+CSIQ/dst_imgs/JPEG/lake.JPEG.1.png,JPEG,CSIQ/src_imgs/lake.png,0.020702
+CSIQ/dst_imgs/JPEG/lake.JPEG.2.png,JPEG,CSIQ/src_imgs/lake.png,0.078837
+CSIQ/dst_imgs/JPEG/lake.JPEG.3.png,JPEG,CSIQ/src_imgs/lake.png,0.15584
+CSIQ/dst_imgs/JPEG/lake.JPEG.4.png,JPEG,CSIQ/src_imgs/lake.png,0.42937
+CSIQ/dst_imgs/JPEG/lake.JPEG.5.png,JPEG,CSIQ/src_imgs/lake.png,0.7299
+CSIQ/dst_imgs/JPEG/log_seaside.JPEG.1.png,JPEG,CSIQ/src_imgs/log_seaside.png,0.00020753
+CSIQ/dst_imgs/JPEG/log_seaside.JPEG.2.png,JPEG,CSIQ/src_imgs/log_seaside.png,0.0092886
+CSIQ/dst_imgs/JPEG/log_seaside.JPEG.3.png,JPEG,CSIQ/src_imgs/log_seaside.png,0.037806
+CSIQ/dst_imgs/JPEG/log_seaside.JPEG.4.png,JPEG,CSIQ/src_imgs/log_seaside.png,0.26926
+CSIQ/dst_imgs/JPEG/log_seaside.JPEG.5.png,JPEG,CSIQ/src_imgs/log_seaside.png,0.63894
+CSIQ/dst_imgs/JPEG/monument.JPEG.1.png,JPEG,CSIQ/src_imgs/monument.png,0.015565
+CSIQ/dst_imgs/JPEG/monument.JPEG.2.png,JPEG,CSIQ/src_imgs/monument.png,0.06327
+CSIQ/dst_imgs/JPEG/monument.JPEG.3.png,JPEG,CSIQ/src_imgs/monument.png,0.32396
+CSIQ/dst_imgs/JPEG/monument.JPEG.4.png,JPEG,CSIQ/src_imgs/monument.png,0.56792
+CSIQ/dst_imgs/JPEG/monument.JPEG.5.png,JPEG,CSIQ/src_imgs/monument.png,0.76556
+CSIQ/dst_imgs/JPEG/native_american.JPEG.1.png,JPEG,CSIQ/src_imgs/native_american.png,0.022606
+CSIQ/dst_imgs/JPEG/native_american.JPEG.2.png,JPEG,CSIQ/src_imgs/native_american.png,0.091709
+CSIQ/dst_imgs/JPEG/native_american.JPEG.3.png,JPEG,CSIQ/src_imgs/native_american.png,0.36208
+CSIQ/dst_imgs/JPEG/native_american.JPEG.4.png,JPEG,CSIQ/src_imgs/native_american.png,0.69926
+CSIQ/dst_imgs/JPEG/native_american.JPEG.5.png,JPEG,CSIQ/src_imgs/native_american.png,0.82704
+CSIQ/dst_imgs/JPEG/redwood.JPEG.1.png,JPEG,CSIQ/src_imgs/redwood.png,0.027168
+CSIQ/dst_imgs/JPEG/redwood.JPEG.2.png,JPEG,CSIQ/src_imgs/redwood.png,0.098655
+CSIQ/dst_imgs/JPEG/redwood.JPEG.3.png,JPEG,CSIQ/src_imgs/redwood.png,0.42507
+CSIQ/dst_imgs/JPEG/redwood.JPEG.4.png,JPEG,CSIQ/src_imgs/redwood.png,0.74493
+CSIQ/dst_imgs/JPEG/redwood.JPEG.5.png,JPEG,CSIQ/src_imgs/redwood.png,0.8458
+CSIQ/dst_imgs/JPEG/roping.JPEG.1.png,JPEG,CSIQ/src_imgs/roping.png,0.013677
+CSIQ/dst_imgs/JPEG/roping.JPEG.2.png,JPEG,CSIQ/src_imgs/roping.png,0.075115
+CSIQ/dst_imgs/JPEG/roping.JPEG.3.png,JPEG,CSIQ/src_imgs/roping.png,0.30045
+CSIQ/dst_imgs/JPEG/roping.JPEG.4.png,JPEG,CSIQ/src_imgs/roping.png,0.59929
+CSIQ/dst_imgs/JPEG/roping.JPEG.5.png,JPEG,CSIQ/src_imgs/roping.png,0.82929
+CSIQ/dst_imgs/JPEG/rushmore.JPEG.1.png,JPEG,CSIQ/src_imgs/rushmore.png,0.024131
+CSIQ/dst_imgs/JPEG/rushmore.JPEG.2.png,JPEG,CSIQ/src_imgs/rushmore.png,0.042972
+CSIQ/dst_imgs/JPEG/rushmore.JPEG.3.png,JPEG,CSIQ/src_imgs/rushmore.png,0.18069
+CSIQ/dst_imgs/JPEG/rushmore.JPEG.4.png,JPEG,CSIQ/src_imgs/rushmore.png,0.53727
+CSIQ/dst_imgs/JPEG/rushmore.JPEG.5.png,JPEG,CSIQ/src_imgs/rushmore.png,0.6663
+CSIQ/dst_imgs/JPEG/shroom.JPEG.1.png,JPEG,CSIQ/src_imgs/shroom.png,0.019647
+CSIQ/dst_imgs/JPEG/shroom.JPEG.2.png,JPEG,CSIQ/src_imgs/shroom.png,0.12473
+CSIQ/dst_imgs/JPEG/shroom.JPEG.3.png,JPEG,CSIQ/src_imgs/shroom.png,0.30709
+CSIQ/dst_imgs/JPEG/shroom.JPEG.4.png,JPEG,CSIQ/src_imgs/shroom.png,0.66313
+CSIQ/dst_imgs/JPEG/shroom.JPEG.5.png,JPEG,CSIQ/src_imgs/shroom.png,0.78008
+CSIQ/dst_imgs/JPEG/snow_leaves.JPEG.1.png,JPEG,CSIQ/src_imgs/snow_leaves.png,0.021858
+CSIQ/dst_imgs/JPEG/snow_leaves.JPEG.2.png,JPEG,CSIQ/src_imgs/snow_leaves.png,0.059661
+CSIQ/dst_imgs/JPEG/snow_leaves.JPEG.3.png,JPEG,CSIQ/src_imgs/snow_leaves.png,0.2609
+CSIQ/dst_imgs/JPEG/snow_leaves.JPEG.4.png,JPEG,CSIQ/src_imgs/snow_leaves.png,0.55525
+CSIQ/dst_imgs/JPEG/snow_leaves.JPEG.5.png,JPEG,CSIQ/src_imgs/snow_leaves.png,0.71082
+CSIQ/dst_imgs/JPEG/sunsetcolor.JPEG.1.png,JPEG,CSIQ/src_imgs/sunsetcolor.png,0.03117
+CSIQ/dst_imgs/JPEG/sunsetcolor.JPEG.2.png,JPEG,CSIQ/src_imgs/sunsetcolor.png,0.436
+CSIQ/dst_imgs/JPEG/sunsetcolor.JPEG.3.png,JPEG,CSIQ/src_imgs/sunsetcolor.png,0.69303
+CSIQ/dst_imgs/JPEG/sunsetcolor.JPEG.4.png,JPEG,CSIQ/src_imgs/sunsetcolor.png,0.88495
+CSIQ/dst_imgs/JPEG/sunsetcolor.JPEG.5.png,JPEG,CSIQ/src_imgs/sunsetcolor.png,0.91764
+CSIQ/dst_imgs/JPEG/sunset_sparrow.JPEG.1.png,JPEG,CSIQ/src_imgs/sunset_sparrow.png,0.043167
+CSIQ/dst_imgs/JPEG/sunset_sparrow.JPEG.2.png,JPEG,CSIQ/src_imgs/sunset_sparrow.png,0.11739
+CSIQ/dst_imgs/JPEG/sunset_sparrow.JPEG.3.png,JPEG,CSIQ/src_imgs/sunset_sparrow.png,0.34172
+CSIQ/dst_imgs/JPEG/sunset_sparrow.JPEG.4.png,JPEG,CSIQ/src_imgs/sunset_sparrow.png,0.72152
+CSIQ/dst_imgs/JPEG/sunset_sparrow.JPEG.5.png,JPEG,CSIQ/src_imgs/sunset_sparrow.png,0.82607
+CSIQ/dst_imgs/JPEG/swarm.JPEG.1.png,JPEG,CSIQ/src_imgs/swarm.png,0.046621
+CSIQ/dst_imgs/JPEG/swarm.JPEG.2.png,JPEG,CSIQ/src_imgs/swarm.png,0.36929
+CSIQ/dst_imgs/JPEG/swarm.JPEG.3.png,JPEG,CSIQ/src_imgs/swarm.png,0.71353
+CSIQ/dst_imgs/JPEG/swarm.JPEG.4.png,JPEG,CSIQ/src_imgs/swarm.png,0.77596
+CSIQ/dst_imgs/JPEG/swarm.JPEG.5.png,JPEG,CSIQ/src_imgs/swarm.png,0.89115
+CSIQ/dst_imgs/JPEG/trolley.JPEG.1.png,JPEG,CSIQ/src_imgs/trolley.png,0.026266
+CSIQ/dst_imgs/JPEG/trolley.JPEG.2.png,JPEG,CSIQ/src_imgs/trolley.png,0.057287
+CSIQ/dst_imgs/JPEG/trolley.JPEG.3.png,JPEG,CSIQ/src_imgs/trolley.png,0.16848
+CSIQ/dst_imgs/JPEG/trolley.JPEG.4.png,JPEG,CSIQ/src_imgs/trolley.png,0.57845
+CSIQ/dst_imgs/JPEG/trolley.JPEG.5.png,JPEG,CSIQ/src_imgs/trolley.png,0.72654
+CSIQ/dst_imgs/JPEG/turtle.JPEG.1.png,JPEG,CSIQ/src_imgs/turtle.png,0.015467
+CSIQ/dst_imgs/JPEG/turtle.JPEG.2.png,JPEG,CSIQ/src_imgs/turtle.png,0.12872
+CSIQ/dst_imgs/JPEG/turtle.JPEG.3.png,JPEG,CSIQ/src_imgs/turtle.png,0.48843
+CSIQ/dst_imgs/JPEG/turtle.JPEG.4.png,JPEG,CSIQ/src_imgs/turtle.png,0.68954
+CSIQ/dst_imgs/JPEG/turtle.JPEG.5.png,JPEG,CSIQ/src_imgs/turtle.png,0.77502
+CSIQ/dst_imgs/JPEG/veggies.JPEG.1.png,JPEG,CSIQ/src_imgs/veggies.png,0.037552
+CSIQ/dst_imgs/JPEG/veggies.JPEG.2.png,JPEG,CSIQ/src_imgs/veggies.png,0.10766
+CSIQ/dst_imgs/JPEG/veggies.JPEG.3.png,JPEG,CSIQ/src_imgs/veggies.png,0.22941
+CSIQ/dst_imgs/JPEG/veggies.JPEG.4.png,JPEG,CSIQ/src_imgs/veggies.png,0.58982
+CSIQ/dst_imgs/JPEG/veggies.JPEG.5.png,JPEG,CSIQ/src_imgs/veggies.png,0.73039
+CSIQ/dst_imgs/JPEG/woman.JPEG.1.png,JPEG,CSIQ/src_imgs/woman.png,0.031199
+CSIQ/dst_imgs/JPEG/woman.JPEG.2.png,JPEG,CSIQ/src_imgs/woman.png,0.11871
+CSIQ/dst_imgs/JPEG/woman.JPEG.3.png,JPEG,CSIQ/src_imgs/woman.png,0.34832
+CSIQ/dst_imgs/JPEG/woman.JPEG.4.png,JPEG,CSIQ/src_imgs/woman.png,0.62144
+CSIQ/dst_imgs/JPEG/woman.JPEG.5.png,JPEG,CSIQ/src_imgs/woman.png,0.78259
+CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.1.png,JP2K,CSIQ/src_imgs/1600.png,0.011967
+CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.2.png,JP2K,CSIQ/src_imgs/1600.png,0.13531
+CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.3.png,JP2K,CSIQ/src_imgs/1600.png,0.36436
+CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.4.png,JP2K,CSIQ/src_imgs/1600.png,0.57584
+CSIQ/dst_imgs/jpeg2000/1600.jpeg2000.5.png,JP2K,CSIQ/src_imgs/1600.png,0.82692
+CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.1.png,JP2K,CSIQ/src_imgs/aerial_city.png,0.027045
+CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.2.png,JP2K,CSIQ/src_imgs/aerial_city.png,0.19101
+CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.3.png,JP2K,CSIQ/src_imgs/aerial_city.png,0.48555
+CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.4.png,JP2K,CSIQ/src_imgs/aerial_city.png,0.75441
+CSIQ/dst_imgs/jpeg2000/aerial_city.jpeg2000.5.png,JP2K,CSIQ/src_imgs/aerial_city.png,0.95591
+CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.1.png,JP2K,CSIQ/src_imgs/boston.png,0.00029439
+CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.2.png,JP2K,CSIQ/src_imgs/boston.png,0.11814
+CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.3.png,JP2K,CSIQ/src_imgs/boston.png,0.38934
+CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.4.png,JP2K,CSIQ/src_imgs/boston.png,0.69656
+CSIQ/dst_imgs/jpeg2000/boston.jpeg2000.5.png,JP2K,CSIQ/src_imgs/boston.png,0.90431
+CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.1.png,JP2K,CSIQ/src_imgs/bridge.png,0.038118
+CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.2.png,JP2K,CSIQ/src_imgs/bridge.png,0.20293
+CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.3.png,JP2K,CSIQ/src_imgs/bridge.png,0.40938
+CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.4.png,JP2K,CSIQ/src_imgs/bridge.png,0.65082
+CSIQ/dst_imgs/jpeg2000/bridge.jpeg2000.5.png,JP2K,CSIQ/src_imgs/bridge.png,0.82468
+CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.1.png,JP2K,CSIQ/src_imgs/butter_flower.png,0.027567
+CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.2.png,JP2K,CSIQ/src_imgs/butter_flower.png,0.14316
+CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.3.png,JP2K,CSIQ/src_imgs/butter_flower.png,0.45994
+CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.4.png,JP2K,CSIQ/src_imgs/butter_flower.png,0.77922
+CSIQ/dst_imgs/jpeg2000/butter_flower.jpeg2000.5.png,JP2K,CSIQ/src_imgs/butter_flower.png,0.92569
+CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.1.png,JP2K,CSIQ/src_imgs/cactus.png,0.078557
+CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.2.png,JP2K,CSIQ/src_imgs/cactus.png,0.20904
+CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.3.png,JP2K,CSIQ/src_imgs/cactus.png,0.40546
+CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.4.png,JP2K,CSIQ/src_imgs/cactus.png,0.63898
+CSIQ/dst_imgs/jpeg2000/cactus.jpeg2000.5.png,JP2K,CSIQ/src_imgs/cactus.png,0.78525
+CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.1.png,JP2K,CSIQ/src_imgs/child_swimming.png,0.028659
+CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.2.png,JP2K,CSIQ/src_imgs/child_swimming.png,0.04294
+CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.3.png,JP2K,CSIQ/src_imgs/child_swimming.png,0.3226
+CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.4.png,JP2K,CSIQ/src_imgs/child_swimming.png,0.54662
+CSIQ/dst_imgs/jpeg2000/child_swimming.jpeg2000.5.png,JP2K,CSIQ/src_imgs/child_swimming.png,0.76588
+CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.1.png,JP2K,CSIQ/src_imgs/couple.png,0.0021407
+CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.2.png,JP2K,CSIQ/src_imgs/couple.png,0.07252
+CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.3.png,JP2K,CSIQ/src_imgs/couple.png,0.38589
+CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.4.png,JP2K,CSIQ/src_imgs/couple.png,0.63062
+CSIQ/dst_imgs/jpeg2000/couple.jpeg2000.5.png,JP2K,CSIQ/src_imgs/couple.png,0.80485
+CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.1.png,JP2K,CSIQ/src_imgs/elk.png,0.026943
+CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.2.png,JP2K,CSIQ/src_imgs/elk.png,0.07438
+CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.3.png,JP2K,CSIQ/src_imgs/elk.png,0.24509
+CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.4.png,JP2K,CSIQ/src_imgs/elk.png,0.54579
+CSIQ/dst_imgs/jpeg2000/elk.jpeg2000.5.png,JP2K,CSIQ/src_imgs/elk.png,0.81057
+CSIQ/dst_imgs/jpeg2000/family.jpeg2000.1.png,JP2K,CSIQ/src_imgs/family.png,0.044337
+CSIQ/dst_imgs/jpeg2000/family.jpeg2000.2.png,JP2K,CSIQ/src_imgs/family.png,0.23754
+CSIQ/dst_imgs/jpeg2000/family.jpeg2000.3.png,JP2K,CSIQ/src_imgs/family.png,0.55871
+CSIQ/dst_imgs/jpeg2000/family.jpeg2000.4.png,JP2K,CSIQ/src_imgs/family.png,0.76195
+CSIQ/dst_imgs/jpeg2000/family.jpeg2000.5.png,JP2K,CSIQ/src_imgs/family.png,0.97712
+CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.1.png,JP2K,CSIQ/src_imgs/fisher.png,0.0081251
+CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.2.png,JP2K,CSIQ/src_imgs/fisher.png,0.17632
+CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.3.png,JP2K,CSIQ/src_imgs/fisher.png,0.51795
+CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.4.png,JP2K,CSIQ/src_imgs/fisher.png,0.80843
+CSIQ/dst_imgs/jpeg2000/fisher.jpeg2000.5.png,JP2K,CSIQ/src_imgs/fisher.png,0.97208
+CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.1.png,JP2K,CSIQ/src_imgs/foxy.png,0.015411
+CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.2.png,JP2K,CSIQ/src_imgs/foxy.png,0.056298
+CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.3.png,JP2K,CSIQ/src_imgs/foxy.png,0.17876
+CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.4.png,JP2K,CSIQ/src_imgs/foxy.png,0.3792
+CSIQ/dst_imgs/jpeg2000/foxy.jpeg2000.5.png,JP2K,CSIQ/src_imgs/foxy.png,0.60903
+CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.1.png,JP2K,CSIQ/src_imgs/geckos.png,0.02235
+CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.2.png,JP2K,CSIQ/src_imgs/geckos.png,0.044189
+CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.3.png,JP2K,CSIQ/src_imgs/geckos.png,0.17048
+CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.4.png,JP2K,CSIQ/src_imgs/geckos.png,0.37739
+CSIQ/dst_imgs/jpeg2000/geckos.jpeg2000.5.png,JP2K,CSIQ/src_imgs/geckos.png,0.6171
+CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.1.png,JP2K,CSIQ/src_imgs/lady_liberty.png,0.031247
+CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.2.png,JP2K,CSIQ/src_imgs/lady_liberty.png,0.267
+CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.3.png,JP2K,CSIQ/src_imgs/lady_liberty.png,0.50863
+CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.4.png,JP2K,CSIQ/src_imgs/lady_liberty.png,0.76342
+CSIQ/dst_imgs/jpeg2000/lady_liberty.jpeg2000.5.png,JP2K,CSIQ/src_imgs/lady_liberty.png,0.90729
+CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.1.png,JP2K,CSIQ/src_imgs/lake.png,0.065431
+CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.2.png,JP2K,CSIQ/src_imgs/lake.png,0.16694
+CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.3.png,JP2K,CSIQ/src_imgs/lake.png,0.2478
+CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.4.png,JP2K,CSIQ/src_imgs/lake.png,0.40812
+CSIQ/dst_imgs/jpeg2000/lake.jpeg2000.5.png,JP2K,CSIQ/src_imgs/lake.png,0.68234
+CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.1.png,JP2K,CSIQ/src_imgs/log_seaside.png,0.00020753
+CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.2.png,JP2K,CSIQ/src_imgs/log_seaside.png,0.044763
+CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.3.png,JP2K,CSIQ/src_imgs/log_seaside.png,0.15995
+CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.4.png,JP2K,CSIQ/src_imgs/log_seaside.png,0.39442
+CSIQ/dst_imgs/jpeg2000/log_seaside.jpeg2000.5.png,JP2K,CSIQ/src_imgs/log_seaside.png,0.69304
+CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.1.png,JP2K,CSIQ/src_imgs/monument.png,0.014624
+CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.2.png,JP2K,CSIQ/src_imgs/monument.png,0.10641
+CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.3.png,JP2K,CSIQ/src_imgs/monument.png,0.38095
+CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.4.png,JP2K,CSIQ/src_imgs/monument.png,0.66518
+CSIQ/dst_imgs/jpeg2000/monument.jpeg2000.5.png,JP2K,CSIQ/src_imgs/monument.png,0.8206
+CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.1.png,JP2K,CSIQ/src_imgs/native_american.png,0.054907
+CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.2.png,JP2K,CSIQ/src_imgs/native_american.png,0.15031
+CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.3.png,JP2K,CSIQ/src_imgs/native_american.png,0.37292
+CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.4.png,JP2K,CSIQ/src_imgs/native_american.png,0.72312
+CSIQ/dst_imgs/jpeg2000/native_american.jpeg2000.5.png,JP2K,CSIQ/src_imgs/native_american.png,0.88708
+CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.1.png,JP2K,CSIQ/src_imgs/redwood.png,0.031707
+CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.2.png,JP2K,CSIQ/src_imgs/redwood.png,0.18232
+CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.3.png,JP2K,CSIQ/src_imgs/redwood.png,0.43444
+CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.4.png,JP2K,CSIQ/src_imgs/redwood.png,0.68124
+CSIQ/dst_imgs/jpeg2000/redwood.jpeg2000.5.png,JP2K,CSIQ/src_imgs/redwood.png,0.88573
+CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.1.png,JP2K,CSIQ/src_imgs/roping.png,0.017065
+CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.2.png,JP2K,CSIQ/src_imgs/roping.png,0.17186
+CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.3.png,JP2K,CSIQ/src_imgs/roping.png,0.36421
+CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.4.png,JP2K,CSIQ/src_imgs/roping.png,0.67098
+CSIQ/dst_imgs/jpeg2000/roping.jpeg2000.5.png,JP2K,CSIQ/src_imgs/roping.png,0.91023
+CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.1.png,JP2K,CSIQ/src_imgs/rushmore.png,0.018268
+CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.2.png,JP2K,CSIQ/src_imgs/rushmore.png,0.090044
+CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.3.png,JP2K,CSIQ/src_imgs/rushmore.png,0.30624
+CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.4.png,JP2K,CSIQ/src_imgs/rushmore.png,0.50141
+CSIQ/dst_imgs/jpeg2000/rushmore.jpeg2000.5.png,JP2K,CSIQ/src_imgs/rushmore.png,0.75377
+CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.1.png,JP2K,CSIQ/src_imgs/shroom.png,0.0040099
+CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.2.png,JP2K,CSIQ/src_imgs/shroom.png,0.080263
+CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.3.png,JP2K,CSIQ/src_imgs/shroom.png,0.39102
+CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.4.png,JP2K,CSIQ/src_imgs/shroom.png,0.60544
+CSIQ/dst_imgs/jpeg2000/shroom.jpeg2000.5.png,JP2K,CSIQ/src_imgs/shroom.png,0.83657
+CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.1.png,JP2K,CSIQ/src_imgs/snow_leaves.png,0.0040271
+CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.2.png,JP2K,CSIQ/src_imgs/snow_leaves.png,0.07784
+CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.3.png,JP2K,CSIQ/src_imgs/snow_leaves.png,0.18738
+CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.4.png,JP2K,CSIQ/src_imgs/snow_leaves.png,0.5554
+CSIQ/dst_imgs/jpeg2000/snow_leaves.jpeg2000.5.png,JP2K,CSIQ/src_imgs/snow_leaves.png,0.75659
+CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.1.png,JP2K,CSIQ/src_imgs/sunsetcolor.png,0.023928
+CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.2.png,JP2K,CSIQ/src_imgs/sunsetcolor.png,0.30065
+CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.3.png,JP2K,CSIQ/src_imgs/sunsetcolor.png,0.65523
+CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.4.png,JP2K,CSIQ/src_imgs/sunsetcolor.png,0.85089
+CSIQ/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.5.png,JP2K,CSIQ/src_imgs/sunsetcolor.png,1
+CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.1.png,JP2K,CSIQ/src_imgs/sunset_sparrow.png,0.058402
+CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.2.png,JP2K,CSIQ/src_imgs/sunset_sparrow.png,0.1785
+CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.3.png,JP2K,CSIQ/src_imgs/sunset_sparrow.png,0.39126
+CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.4.png,JP2K,CSIQ/src_imgs/sunset_sparrow.png,0.60608
+CSIQ/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.5.png,JP2K,CSIQ/src_imgs/sunset_sparrow.png,0.88881
+CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.1.png,JP2K,CSIQ/src_imgs/swarm.png,0.032796
+CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.2.png,JP2K,CSIQ/src_imgs/swarm.png,0.31333
+CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.3.png,JP2K,CSIQ/src_imgs/swarm.png,0.5723
+CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.4.png,JP2K,CSIQ/src_imgs/swarm.png,0.83737
+CSIQ/dst_imgs/jpeg2000/swarm.jpeg2000.5.png,JP2K,CSIQ/src_imgs/swarm.png,0.96715
+CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.1.png,JP2K,CSIQ/src_imgs/trolley.png,0.035962
+CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.2.png,JP2K,CSIQ/src_imgs/trolley.png,0.16443
+CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.3.png,JP2K,CSIQ/src_imgs/trolley.png,0.34972
+CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.4.png,JP2K,CSIQ/src_imgs/trolley.png,0.53318
+CSIQ/dst_imgs/jpeg2000/trolley.jpeg2000.5.png,JP2K,CSIQ/src_imgs/trolley.png,0.76393
+CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.1.png,JP2K,CSIQ/src_imgs/turtle.png,0.001972
+CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.2.png,JP2K,CSIQ/src_imgs/turtle.png,0.16212
+CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.3.png,JP2K,CSIQ/src_imgs/turtle.png,0.53166
+CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.4.png,JP2K,CSIQ/src_imgs/turtle.png,0.80232
+CSIQ/dst_imgs/jpeg2000/turtle.jpeg2000.5.png,JP2K,CSIQ/src_imgs/turtle.png,0.9842
+CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.1.png,JP2K,CSIQ/src_imgs/veggies.png,0.045103
+CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.2.png,JP2K,CSIQ/src_imgs/veggies.png,0.11431
+CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.3.png,JP2K,CSIQ/src_imgs/veggies.png,0.3173
+CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.4.png,JP2K,CSIQ/src_imgs/veggies.png,0.54771
+CSIQ/dst_imgs/jpeg2000/veggies.jpeg2000.5.png,JP2K,CSIQ/src_imgs/veggies.png,0.77195
+CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.1.png,JP2K,CSIQ/src_imgs/woman.png,0.042023
+CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.2.png,JP2K,CSIQ/src_imgs/woman.png,0.12154
+CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.3.png,JP2K,CSIQ/src_imgs/woman.png,0.40344
+CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.4.png,JP2K,CSIQ/src_imgs/woman.png,0.64108
+CSIQ/dst_imgs/jpeg2000/woman.jpeg2000.5.png,JP2K,CSIQ/src_imgs/woman.png,0.89661
+CSIQ/dst_imgs/fnoise/1600.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/1600.png,0.052376
+CSIQ/dst_imgs/fnoise/1600.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/1600.png,0.25306
+CSIQ/dst_imgs/fnoise/1600.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/1600.png,0.37574
+CSIQ/dst_imgs/fnoise/1600.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/1600.png,0.48988
+CSIQ/dst_imgs/fnoise/1600.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/1600.png,0.56522
+CSIQ/dst_imgs/fnoise/aerial_city.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/aerial_city.png,0.12565
+CSIQ/dst_imgs/fnoise/aerial_city.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/aerial_city.png,0.31873
+CSIQ/dst_imgs/fnoise/aerial_city.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/aerial_city.png,0.47522
+CSIQ/dst_imgs/fnoise/aerial_city.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/aerial_city.png,0.60063
+CSIQ/dst_imgs/fnoise/aerial_city.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/aerial_city.png,0.70773
+CSIQ/dst_imgs/fnoise/boston.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/boston.png,0.067654
+CSIQ/dst_imgs/fnoise/boston.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/boston.png,0.24343
+CSIQ/dst_imgs/fnoise/boston.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/boston.png,0.49813
+CSIQ/dst_imgs/fnoise/boston.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/boston.png,0.61996
+CSIQ/dst_imgs/fnoise/boston.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/boston.png,0.72408
+CSIQ/dst_imgs/fnoise/bridge.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/bridge.png,0.050821
+CSIQ/dst_imgs/fnoise/bridge.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/bridge.png,0.29276
+CSIQ/dst_imgs/fnoise/bridge.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/bridge.png,0.42887
+CSIQ/dst_imgs/fnoise/bridge.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/bridge.png,0.59531
+CSIQ/dst_imgs/fnoise/bridge.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/bridge.png,0.69654
+CSIQ/dst_imgs/fnoise/butter_flower.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/butter_flower.png,0.027877
+CSIQ/dst_imgs/fnoise/butter_flower.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/butter_flower.png,0.19512
+CSIQ/dst_imgs/fnoise/butter_flower.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/butter_flower.png,0.38152
+CSIQ/dst_imgs/fnoise/butter_flower.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/butter_flower.png,0.54904
+CSIQ/dst_imgs/fnoise/butter_flower.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/butter_flower.png,0.7266
+CSIQ/dst_imgs/fnoise/cactus.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/cactus.png,0.22208
+CSIQ/dst_imgs/fnoise/cactus.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/cactus.png,0.32532
+CSIQ/dst_imgs/fnoise/cactus.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/cactus.png,0.50303
+CSIQ/dst_imgs/fnoise/cactus.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/cactus.png,0.59475
+CSIQ/dst_imgs/fnoise/cactus.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/cactus.png,0.66661
+CSIQ/dst_imgs/fnoise/child_swimming.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/child_swimming.png,0.031725
+CSIQ/dst_imgs/fnoise/child_swimming.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/child_swimming.png,0.22612
+CSIQ/dst_imgs/fnoise/child_swimming.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/child_swimming.png,0.37553
+CSIQ/dst_imgs/fnoise/child_swimming.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/child_swimming.png,0.57045
+CSIQ/dst_imgs/fnoise/child_swimming.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/child_swimming.png,0.69911
+CSIQ/dst_imgs/fnoise/couple.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/couple.png,0.011536
+CSIQ/dst_imgs/fnoise/couple.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/couple.png,0.088824
+CSIQ/dst_imgs/fnoise/couple.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/couple.png,0.26469
+CSIQ/dst_imgs/fnoise/couple.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/couple.png,0.46705
+CSIQ/dst_imgs/fnoise/couple.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/couple.png,0.6388
+CSIQ/dst_imgs/fnoise/elk.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/elk.png,0.046471
+CSIQ/dst_imgs/fnoise/elk.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/elk.png,0.24668
+CSIQ/dst_imgs/fnoise/elk.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/elk.png,0.37089
+CSIQ/dst_imgs/fnoise/elk.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/elk.png,0.48385
+CSIQ/dst_imgs/fnoise/elk.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/elk.png,0.64495
+CSIQ/dst_imgs/fnoise/family.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/family.png,0.16983
+CSIQ/dst_imgs/fnoise/family.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/family.png,0.27189
+CSIQ/dst_imgs/fnoise/family.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/family.png,0.44799
+CSIQ/dst_imgs/fnoise/family.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/family.png,0.56864
+CSIQ/dst_imgs/fnoise/family.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/family.png,0.68064
+CSIQ/dst_imgs/fnoise/fisher.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/fisher.png,0.06606
+CSIQ/dst_imgs/fnoise/fisher.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/fisher.png,0.27029
+CSIQ/dst_imgs/fnoise/fisher.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/fisher.png,0.4028
+CSIQ/dst_imgs/fnoise/fisher.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/fisher.png,0.48737
+CSIQ/dst_imgs/fnoise/fisher.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/fisher.png,0.60652
+CSIQ/dst_imgs/fnoise/foxy.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/foxy.png,0.022738
+CSIQ/dst_imgs/fnoise/foxy.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/foxy.png,0.092167
+CSIQ/dst_imgs/fnoise/foxy.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/foxy.png,0.33271
+CSIQ/dst_imgs/fnoise/foxy.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/foxy.png,0.40098
+CSIQ/dst_imgs/fnoise/foxy.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/foxy.png,0.57586
+CSIQ/dst_imgs/fnoise/geckos.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/geckos.png,0.0040406
+CSIQ/dst_imgs/fnoise/geckos.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/geckos.png,0.19015
+CSIQ/dst_imgs/fnoise/geckos.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/geckos.png,0.33751
+CSIQ/dst_imgs/fnoise/geckos.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/geckos.png,0.45141
+CSIQ/dst_imgs/fnoise/geckos.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/geckos.png,0.60982
+CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/lady_liberty.png,0.031954
+CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/lady_liberty.png,0.19346
+CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/lady_liberty.png,0.35243
+CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/lady_liberty.png,0.50537
+CSIQ/dst_imgs/fnoise/lady_liberty.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/lady_liberty.png,0.64199
+CSIQ/dst_imgs/fnoise/lake.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/lake.png,0.12465
+CSIQ/dst_imgs/fnoise/lake.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/lake.png,0.29034
+CSIQ/dst_imgs/fnoise/lake.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/lake.png,0.4397
+CSIQ/dst_imgs/fnoise/lake.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/lake.png,0.5715
+CSIQ/dst_imgs/fnoise/lake.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/lake.png,0.65903
+CSIQ/dst_imgs/fnoise/log_seaside.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/log_seaside.png,0.01751
+CSIQ/dst_imgs/fnoise/log_seaside.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/log_seaside.png,0.14313
+CSIQ/dst_imgs/fnoise/log_seaside.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/log_seaside.png,0.32297
+CSIQ/dst_imgs/fnoise/log_seaside.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/log_seaside.png,0.51817
+CSIQ/dst_imgs/fnoise/log_seaside.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/log_seaside.png,0.67264
+CSIQ/dst_imgs/fnoise/monument.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/monument.png,0.030943
+CSIQ/dst_imgs/fnoise/monument.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/monument.png,0.20824
+CSIQ/dst_imgs/fnoise/monument.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/monument.png,0.32013
+CSIQ/dst_imgs/fnoise/monument.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/monument.png,0.51371
+CSIQ/dst_imgs/fnoise/monument.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/monument.png,0.59848
+CSIQ/dst_imgs/fnoise/native_american.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/native_american.png,0.0869
+CSIQ/dst_imgs/fnoise/native_american.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/native_american.png,0.25446
+CSIQ/dst_imgs/fnoise/native_american.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/native_american.png,0.49096
+CSIQ/dst_imgs/fnoise/native_american.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/native_american.png,0.61773
+CSIQ/dst_imgs/fnoise/native_american.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/native_american.png,0.73544
+CSIQ/dst_imgs/fnoise/redwood.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/redwood.png,0.094844
+CSIQ/dst_imgs/fnoise/redwood.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/redwood.png,0.30978
+CSIQ/dst_imgs/fnoise/redwood.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/redwood.png,0.52445
+CSIQ/dst_imgs/fnoise/redwood.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/redwood.png,0.65325
+CSIQ/dst_imgs/fnoise/redwood.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/redwood.png,0.75207
+CSIQ/dst_imgs/fnoise/roping.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/roping.png,0.03226
+CSIQ/dst_imgs/fnoise/roping.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/roping.png,0.13874
+CSIQ/dst_imgs/fnoise/roping.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/roping.png,0.33589
+CSIQ/dst_imgs/fnoise/roping.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/roping.png,0.51251
+CSIQ/dst_imgs/fnoise/roping.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/roping.png,0.73826
+CSIQ/dst_imgs/fnoise/rushmore.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/rushmore.png,0.1984
+CSIQ/dst_imgs/fnoise/rushmore.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/rushmore.png,0.29665
+CSIQ/dst_imgs/fnoise/rushmore.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/rushmore.png,0.42227
+CSIQ/dst_imgs/fnoise/rushmore.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/rushmore.png,0.54664
+CSIQ/dst_imgs/fnoise/rushmore.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/rushmore.png,0.63586
+CSIQ/dst_imgs/fnoise/shroom.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/shroom.png,0.021546
+CSIQ/dst_imgs/fnoise/shroom.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/shroom.png,0.17998
+CSIQ/dst_imgs/fnoise/shroom.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/shroom.png,0.35574
+CSIQ/dst_imgs/fnoise/shroom.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/shroom.png,0.57476
+CSIQ/dst_imgs/fnoise/shroom.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/shroom.png,0.70166
+CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/snow_leaves.png,0.047634
+CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/snow_leaves.png,0.22458
+CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/snow_leaves.png,0.41141
+CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/snow_leaves.png,0.53604
+CSIQ/dst_imgs/fnoise/snow_leaves.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/snow_leaves.png,0.67914
+CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/sunsetcolor.png,0.11923
+CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/sunsetcolor.png,0.33921
+CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/sunsetcolor.png,0.53145
+CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/sunsetcolor.png,0.61731
+CSIQ/dst_imgs/fnoise/sunsetcolor.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/sunsetcolor.png,0.72144
+CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/sunset_sparrow.png,0.22416
+CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/sunset_sparrow.png,0.36921
+CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/sunset_sparrow.png,0.53908
+CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/sunset_sparrow.png,0.60682
+CSIQ/dst_imgs/fnoise/sunset_sparrow.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/sunset_sparrow.png,0.73422
+CSIQ/dst_imgs/fnoise/swarm.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/swarm.png,0.07239
+CSIQ/dst_imgs/fnoise/swarm.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/swarm.png,0.3657
+CSIQ/dst_imgs/fnoise/swarm.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/swarm.png,0.58633
+CSIQ/dst_imgs/fnoise/swarm.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/swarm.png,0.69673
+CSIQ/dst_imgs/fnoise/swarm.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/swarm.png,0.81641
+CSIQ/dst_imgs/fnoise/trolley.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/trolley.png,0.067151
+CSIQ/dst_imgs/fnoise/trolley.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/trolley.png,0.29391
+CSIQ/dst_imgs/fnoise/trolley.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/trolley.png,0.43203
+CSIQ/dst_imgs/fnoise/trolley.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/trolley.png,0.58649
+CSIQ/dst_imgs/fnoise/trolley.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/trolley.png,0.70096
+CSIQ/dst_imgs/fnoise/turtle.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/turtle.png,0.038818
+CSIQ/dst_imgs/fnoise/turtle.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/turtle.png,0.1726
+CSIQ/dst_imgs/fnoise/turtle.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/turtle.png,0.34479
+CSIQ/dst_imgs/fnoise/turtle.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/turtle.png,0.53838
+CSIQ/dst_imgs/fnoise/turtle.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/turtle.png,0.65312
+CSIQ/dst_imgs/fnoise/veggies.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/veggies.png,0.064548
+CSIQ/dst_imgs/fnoise/veggies.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/veggies.png,0.20291
+CSIQ/dst_imgs/fnoise/veggies.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/veggies.png,0.37108
+CSIQ/dst_imgs/fnoise/veggies.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/veggies.png,0.60019
+CSIQ/dst_imgs/fnoise/veggies.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/veggies.png,0.68302
+CSIQ/dst_imgs/fnoise/woman.fnoise.1.png,Pink_Noise,CSIQ/src_imgs/woman.png,0.098706
+CSIQ/dst_imgs/fnoise/woman.fnoise.2.png,Pink_Noise,CSIQ/src_imgs/woman.png,0.26239
+CSIQ/dst_imgs/fnoise/woman.fnoise.3.png,Pink_Noise,CSIQ/src_imgs/woman.png,0.49034
+CSIQ/dst_imgs/fnoise/woman.fnoise.4.png,Pink_Noise,CSIQ/src_imgs/woman.png,0.63801
+CSIQ/dst_imgs/fnoise/woman.fnoise.5.png,Pink_Noise,CSIQ/src_imgs/woman.png,0.74192
+CSIQ/dst_imgs/BLUR/1600.BLUR.1.png,GBLUR,CSIQ/src_imgs/1600.png,0.042668
+CSIQ/dst_imgs/BLUR/1600.BLUR.2.png,GBLUR,CSIQ/src_imgs/1600.png,0.14243
+CSIQ/dst_imgs/BLUR/1600.BLUR.3.png,GBLUR,CSIQ/src_imgs/1600.png,0.34111
+CSIQ/dst_imgs/BLUR/1600.BLUR.4.png,GBLUR,CSIQ/src_imgs/1600.png,0.47104
+CSIQ/dst_imgs/BLUR/1600.BLUR.5.png,GBLUR,CSIQ/src_imgs/1600.png,0.74979
+CSIQ/dst_imgs/BLUR/aerial_city.BLUR.1.png,GBLUR,CSIQ/src_imgs/aerial_city.png,0.024984
+CSIQ/dst_imgs/BLUR/aerial_city.BLUR.2.png,GBLUR,CSIQ/src_imgs/aerial_city.png,0.11435
+CSIQ/dst_imgs/BLUR/aerial_city.BLUR.3.png,GBLUR,CSIQ/src_imgs/aerial_city.png,0.25942
+CSIQ/dst_imgs/BLUR/aerial_city.BLUR.4.png,GBLUR,CSIQ/src_imgs/aerial_city.png,0.46394
+CSIQ/dst_imgs/BLUR/aerial_city.BLUR.5.png,GBLUR,CSIQ/src_imgs/aerial_city.png,0.89596
+CSIQ/dst_imgs/BLUR/boston.BLUR.1.png,GBLUR,CSIQ/src_imgs/boston.png,0.083456
+CSIQ/dst_imgs/BLUR/boston.BLUR.2.png,GBLUR,CSIQ/src_imgs/boston.png,0.21575
+CSIQ/dst_imgs/BLUR/boston.BLUR.3.png,GBLUR,CSIQ/src_imgs/boston.png,0.36312
+CSIQ/dst_imgs/BLUR/boston.BLUR.4.png,GBLUR,CSIQ/src_imgs/boston.png,0.57122
+CSIQ/dst_imgs/BLUR/boston.BLUR.5.png,GBLUR,CSIQ/src_imgs/boston.png,0.91301
+CSIQ/dst_imgs/BLUR/bridge.BLUR.1.png,GBLUR,CSIQ/src_imgs/bridge.png,0.060651
+CSIQ/dst_imgs/BLUR/bridge.BLUR.2.png,GBLUR,CSIQ/src_imgs/bridge.png,0.18244
+CSIQ/dst_imgs/BLUR/bridge.BLUR.3.png,GBLUR,CSIQ/src_imgs/bridge.png,0.34814
+CSIQ/dst_imgs/BLUR/bridge.BLUR.4.png,GBLUR,CSIQ/src_imgs/bridge.png,0.63579
+CSIQ/dst_imgs/BLUR/bridge.BLUR.5.png,GBLUR,CSIQ/src_imgs/bridge.png,0.77718
+CSIQ/dst_imgs/BLUR/butter_flower.BLUR.1.png,GBLUR,CSIQ/src_imgs/butter_flower.png,0.078072
+CSIQ/dst_imgs/BLUR/butter_flower.BLUR.2.png,GBLUR,CSIQ/src_imgs/butter_flower.png,0.20197
+CSIQ/dst_imgs/BLUR/butter_flower.BLUR.3.png,GBLUR,CSIQ/src_imgs/butter_flower.png,0.48198
+CSIQ/dst_imgs/BLUR/butter_flower.BLUR.4.png,GBLUR,CSIQ/src_imgs/butter_flower.png,0.77854
+CSIQ/dst_imgs/BLUR/butter_flower.BLUR.5.png,GBLUR,CSIQ/src_imgs/butter_flower.png,0.95278
+CSIQ/dst_imgs/BLUR/cactus.BLUR.1.png,GBLUR,CSIQ/src_imgs/cactus.png,0.066743
+CSIQ/dst_imgs/BLUR/cactus.BLUR.2.png,GBLUR,CSIQ/src_imgs/cactus.png,0.1472
+CSIQ/dst_imgs/BLUR/cactus.BLUR.3.png,GBLUR,CSIQ/src_imgs/cactus.png,0.39928
+CSIQ/dst_imgs/BLUR/cactus.BLUR.4.png,GBLUR,CSIQ/src_imgs/cactus.png,0.50841
+CSIQ/dst_imgs/BLUR/cactus.BLUR.5.png,GBLUR,CSIQ/src_imgs/cactus.png,0.75
+CSIQ/dst_imgs/BLUR/child_swimming.BLUR.1.png,GBLUR,CSIQ/src_imgs/child_swimming.png,0.031725
+CSIQ/dst_imgs/BLUR/child_swimming.BLUR.2.png,GBLUR,CSIQ/src_imgs/child_swimming.png,0.18716
+CSIQ/dst_imgs/BLUR/child_swimming.BLUR.3.png,GBLUR,CSIQ/src_imgs/child_swimming.png,0.29002
+CSIQ/dst_imgs/BLUR/child_swimming.BLUR.4.png,GBLUR,CSIQ/src_imgs/child_swimming.png,0.48498
+CSIQ/dst_imgs/BLUR/child_swimming.BLUR.5.png,GBLUR,CSIQ/src_imgs/child_swimming.png,0.75828
+CSIQ/dst_imgs/BLUR/couple.BLUR.1.png,GBLUR,CSIQ/src_imgs/couple.png,0.047046
+CSIQ/dst_imgs/BLUR/couple.BLUR.2.png,GBLUR,CSIQ/src_imgs/couple.png,0.24907
+CSIQ/dst_imgs/BLUR/couple.BLUR.3.png,GBLUR,CSIQ/src_imgs/couple.png,0.4081
+CSIQ/dst_imgs/BLUR/couple.BLUR.4.png,GBLUR,CSIQ/src_imgs/couple.png,0.58878
+CSIQ/dst_imgs/BLUR/couple.BLUR.5.png,GBLUR,CSIQ/src_imgs/couple.png,0.78538
+CSIQ/dst_imgs/BLUR/elk.BLUR.1.png,GBLUR,CSIQ/src_imgs/elk.png,0.044255
+CSIQ/dst_imgs/BLUR/elk.BLUR.2.png,GBLUR,CSIQ/src_imgs/elk.png,0.12163
+CSIQ/dst_imgs/BLUR/elk.BLUR.3.png,GBLUR,CSIQ/src_imgs/elk.png,0.24709
+CSIQ/dst_imgs/BLUR/elk.BLUR.4.png,GBLUR,CSIQ/src_imgs/elk.png,0.40482
+CSIQ/dst_imgs/BLUR/elk.BLUR.5.png,GBLUR,CSIQ/src_imgs/elk.png,0.76287
+CSIQ/dst_imgs/BLUR/family.BLUR.1.png,GBLUR,CSIQ/src_imgs/family.png,0.036967
+CSIQ/dst_imgs/BLUR/family.BLUR.2.png,GBLUR,CSIQ/src_imgs/family.png,0.14934
+CSIQ/dst_imgs/BLUR/family.BLUR.3.png,GBLUR,CSIQ/src_imgs/family.png,0.26224
+CSIQ/dst_imgs/BLUR/family.BLUR.4.png,GBLUR,CSIQ/src_imgs/family.png,0.53837
+CSIQ/dst_imgs/BLUR/family.BLUR.5.png,GBLUR,CSIQ/src_imgs/family.png,0.85626
+CSIQ/dst_imgs/BLUR/fisher.BLUR.1.png,GBLUR,CSIQ/src_imgs/fisher.png,0.055759
+CSIQ/dst_imgs/BLUR/fisher.BLUR.2.png,GBLUR,CSIQ/src_imgs/fisher.png,0.36115
+CSIQ/dst_imgs/BLUR/fisher.BLUR.3.png,GBLUR,CSIQ/src_imgs/fisher.png,0.58325
+CSIQ/dst_imgs/BLUR/fisher.BLUR.4.png,GBLUR,CSIQ/src_imgs/fisher.png,0.80044
+CSIQ/dst_imgs/BLUR/fisher.BLUR.5.png,GBLUR,CSIQ/src_imgs/fisher.png,0.91274
+CSIQ/dst_imgs/BLUR/foxy.BLUR.1.png,GBLUR,CSIQ/src_imgs/foxy.png,0.015862
+CSIQ/dst_imgs/BLUR/foxy.BLUR.2.png,GBLUR,CSIQ/src_imgs/foxy.png,0.1098
+CSIQ/dst_imgs/BLUR/foxy.BLUR.3.png,GBLUR,CSIQ/src_imgs/foxy.png,0.1798
+CSIQ/dst_imgs/BLUR/foxy.BLUR.4.png,GBLUR,CSIQ/src_imgs/foxy.png,0.29032
+CSIQ/dst_imgs/BLUR/foxy.BLUR.5.png,GBLUR,CSIQ/src_imgs/foxy.png,0.44184
+CSIQ/dst_imgs/BLUR/geckos.BLUR.1.png,GBLUR,CSIQ/src_imgs/geckos.png,0.012523
+CSIQ/dst_imgs/BLUR/geckos.BLUR.2.png,GBLUR,CSIQ/src_imgs/geckos.png,0.067628
+CSIQ/dst_imgs/BLUR/geckos.BLUR.3.png,GBLUR,CSIQ/src_imgs/geckos.png,0.23096
+CSIQ/dst_imgs/BLUR/geckos.BLUR.4.png,GBLUR,CSIQ/src_imgs/geckos.png,0.34086
+CSIQ/dst_imgs/BLUR/geckos.BLUR.5.png,GBLUR,CSIQ/src_imgs/geckos.png,0.56974
+CSIQ/dst_imgs/BLUR/lady_liberty.BLUR.1.png,GBLUR,CSIQ/src_imgs/lady_liberty.png,0.058938
+CSIQ/dst_imgs/BLUR/lady_liberty.BLUR.2.png,GBLUR,CSIQ/src_imgs/lady_liberty.png,0.22653
+CSIQ/dst_imgs/BLUR/lady_liberty.BLUR.3.png,GBLUR,CSIQ/src_imgs/lady_liberty.png,0.4615
+CSIQ/dst_imgs/BLUR/lady_liberty.BLUR.4.png,GBLUR,CSIQ/src_imgs/lady_liberty.png,0.6733
+CSIQ/dst_imgs/BLUR/lady_liberty.BLUR.5.png,GBLUR,CSIQ/src_imgs/lady_liberty.png,0.9658
+CSIQ/dst_imgs/BLUR/lake.BLUR.1.png,GBLUR,CSIQ/src_imgs/lake.png,0.074177
+CSIQ/dst_imgs/BLUR/lake.BLUR.2.png,GBLUR,CSIQ/src_imgs/lake.png,0.16293
+CSIQ/dst_imgs/BLUR/lake.BLUR.3.png,GBLUR,CSIQ/src_imgs/lake.png,0.29563
+CSIQ/dst_imgs/BLUR/lake.BLUR.4.png,GBLUR,CSIQ/src_imgs/lake.png,0.47021
+CSIQ/dst_imgs/BLUR/lake.BLUR.5.png,GBLUR,CSIQ/src_imgs/lake.png,0.6547
+CSIQ/dst_imgs/BLUR/log_seaside.BLUR.1.png,GBLUR,CSIQ/src_imgs/log_seaside.png,0.013494
+CSIQ/dst_imgs/BLUR/log_seaside.BLUR.2.png,GBLUR,CSIQ/src_imgs/log_seaside.png,0.078074
+CSIQ/dst_imgs/BLUR/log_seaside.BLUR.3.png,GBLUR,CSIQ/src_imgs/log_seaside.png,0.20724
+CSIQ/dst_imgs/BLUR/log_seaside.BLUR.4.png,GBLUR,CSIQ/src_imgs/log_seaside.png,0.35051
+CSIQ/dst_imgs/BLUR/log_seaside.BLUR.5.png,GBLUR,CSIQ/src_imgs/log_seaside.png,0.59039
+CSIQ/dst_imgs/BLUR/monument.BLUR.1.png,GBLUR,CSIQ/src_imgs/monument.png,0.047668
+CSIQ/dst_imgs/BLUR/monument.BLUR.2.png,GBLUR,CSIQ/src_imgs/monument.png,0.17705
+CSIQ/dst_imgs/BLUR/monument.BLUR.3.png,GBLUR,CSIQ/src_imgs/monument.png,0.3594
+CSIQ/dst_imgs/BLUR/monument.BLUR.4.png,GBLUR,CSIQ/src_imgs/monument.png,0.58755
+CSIQ/dst_imgs/BLUR/monument.BLUR.5.png,GBLUR,CSIQ/src_imgs/monument.png,0.79027
+CSIQ/dst_imgs/BLUR/native_american.BLUR.1.png,GBLUR,CSIQ/src_imgs/native_american.png,0.035081
+CSIQ/dst_imgs/BLUR/native_american.BLUR.2.png,GBLUR,CSIQ/src_imgs/native_american.png,0.17228
+CSIQ/dst_imgs/BLUR/native_american.BLUR.3.png,GBLUR,CSIQ/src_imgs/native_american.png,0.36494
+CSIQ/dst_imgs/BLUR/native_american.BLUR.4.png,GBLUR,CSIQ/src_imgs/native_american.png,0.60654
+CSIQ/dst_imgs/BLUR/native_american.BLUR.5.png,GBLUR,CSIQ/src_imgs/native_american.png,0.86807
+CSIQ/dst_imgs/BLUR/redwood.BLUR.1.png,GBLUR,CSIQ/src_imgs/redwood.png,0.087942
+CSIQ/dst_imgs/BLUR/redwood.BLUR.2.png,GBLUR,CSIQ/src_imgs/redwood.png,0.22996
+CSIQ/dst_imgs/BLUR/redwood.BLUR.3.png,GBLUR,CSIQ/src_imgs/redwood.png,0.38093
+CSIQ/dst_imgs/BLUR/redwood.BLUR.4.png,GBLUR,CSIQ/src_imgs/redwood.png,0.56935
+CSIQ/dst_imgs/BLUR/redwood.BLUR.5.png,GBLUR,CSIQ/src_imgs/redwood.png,0.84557
+CSIQ/dst_imgs/BLUR/roping.BLUR.1.png,GBLUR,CSIQ/src_imgs/roping.png,0.034108
+CSIQ/dst_imgs/BLUR/roping.BLUR.2.png,GBLUR,CSIQ/src_imgs/roping.png,0.1885
+CSIQ/dst_imgs/BLUR/roping.BLUR.3.png,GBLUR,CSIQ/src_imgs/roping.png,0.47054
+CSIQ/dst_imgs/BLUR/roping.BLUR.4.png,GBLUR,CSIQ/src_imgs/roping.png,0.67005
+CSIQ/dst_imgs/BLUR/roping.BLUR.5.png,GBLUR,CSIQ/src_imgs/roping.png,0.87971
+CSIQ/dst_imgs/BLUR/rushmore.BLUR.1.png,GBLUR,CSIQ/src_imgs/rushmore.png,0.011442
+CSIQ/dst_imgs/BLUR/rushmore.BLUR.2.png,GBLUR,CSIQ/src_imgs/rushmore.png,0.083287
+CSIQ/dst_imgs/BLUR/rushmore.BLUR.3.png,GBLUR,CSIQ/src_imgs/rushmore.png,0.24158
+CSIQ/dst_imgs/BLUR/rushmore.BLUR.4.png,GBLUR,CSIQ/src_imgs/rushmore.png,0.41558
+CSIQ/dst_imgs/BLUR/rushmore.BLUR.5.png,GBLUR,CSIQ/src_imgs/rushmore.png,0.65759
+CSIQ/dst_imgs/BLUR/shroom.BLUR.1.png,GBLUR,CSIQ/src_imgs/shroom.png,0.046042
+CSIQ/dst_imgs/BLUR/shroom.BLUR.2.png,GBLUR,CSIQ/src_imgs/shroom.png,0.16103
+CSIQ/dst_imgs/BLUR/shroom.BLUR.3.png,GBLUR,CSIQ/src_imgs/shroom.png,0.39471
+CSIQ/dst_imgs/BLUR/shroom.BLUR.4.png,GBLUR,CSIQ/src_imgs/shroom.png,0.54916
+CSIQ/dst_imgs/BLUR/shroom.BLUR.5.png,GBLUR,CSIQ/src_imgs/shroom.png,0.76924
+CSIQ/dst_imgs/BLUR/snow_leaves.BLUR.1.png,GBLUR,CSIQ/src_imgs/snow_leaves.png,0.019751
+CSIQ/dst_imgs/BLUR/snow_leaves.BLUR.2.png,GBLUR,CSIQ/src_imgs/snow_leaves.png,0.13974
+CSIQ/dst_imgs/BLUR/snow_leaves.BLUR.3.png,GBLUR,CSIQ/src_imgs/snow_leaves.png,0.30033
+CSIQ/dst_imgs/BLUR/snow_leaves.BLUR.4.png,GBLUR,CSIQ/src_imgs/snow_leaves.png,0.45981
+CSIQ/dst_imgs/BLUR/snow_leaves.BLUR.5.png,GBLUR,CSIQ/src_imgs/snow_leaves.png,0.69641
+CSIQ/dst_imgs/BLUR/sunsetcolor.BLUR.1.png,GBLUR,CSIQ/src_imgs/sunsetcolor.png,0.073076
+CSIQ/dst_imgs/BLUR/sunsetcolor.BLUR.2.png,GBLUR,CSIQ/src_imgs/sunsetcolor.png,0.30853
+CSIQ/dst_imgs/BLUR/sunsetcolor.BLUR.3.png,GBLUR,CSIQ/src_imgs/sunsetcolor.png,0.72592
+CSIQ/dst_imgs/BLUR/sunsetcolor.BLUR.4.png,GBLUR,CSIQ/src_imgs/sunsetcolor.png,0.96278
+CSIQ/dst_imgs/BLUR/sunsetcolor.BLUR.5.png,GBLUR,CSIQ/src_imgs/sunsetcolor.png,0.99941
+CSIQ/dst_imgs/BLUR/sunset_sparrow.BLUR.1.png,GBLUR,CSIQ/src_imgs/sunset_sparrow.png,0.086547
+CSIQ/dst_imgs/BLUR/sunset_sparrow.BLUR.2.png,GBLUR,CSIQ/src_imgs/sunset_sparrow.png,0.19069
+CSIQ/dst_imgs/BLUR/sunset_sparrow.BLUR.3.png,GBLUR,CSIQ/src_imgs/sunset_sparrow.png,0.30689
+CSIQ/dst_imgs/BLUR/sunset_sparrow.BLUR.4.png,GBLUR,CSIQ/src_imgs/sunset_sparrow.png,0.5476
+CSIQ/dst_imgs/BLUR/sunset_sparrow.BLUR.5.png,GBLUR,CSIQ/src_imgs/sunset_sparrow.png,0.84592
+CSIQ/dst_imgs/BLUR/swarm.BLUR.1.png,GBLUR,CSIQ/src_imgs/swarm.png,0.075406
+CSIQ/dst_imgs/BLUR/swarm.BLUR.2.png,GBLUR,CSIQ/src_imgs/swarm.png,0.29251
+CSIQ/dst_imgs/BLUR/swarm.BLUR.3.png,GBLUR,CSIQ/src_imgs/swarm.png,0.55879
+CSIQ/dst_imgs/BLUR/swarm.BLUR.4.png,GBLUR,CSIQ/src_imgs/swarm.png,0.81797
+CSIQ/dst_imgs/BLUR/swarm.BLUR.5.png,GBLUR,CSIQ/src_imgs/swarm.png,0.96283
+CSIQ/dst_imgs/BLUR/trolley.BLUR.1.png,GBLUR,CSIQ/src_imgs/trolley.png,0.036354
+CSIQ/dst_imgs/BLUR/trolley.BLUR.2.png,GBLUR,CSIQ/src_imgs/trolley.png,0.11516
+CSIQ/dst_imgs/BLUR/trolley.BLUR.3.png,GBLUR,CSIQ/src_imgs/trolley.png,0.22982
+CSIQ/dst_imgs/BLUR/trolley.BLUR.4.png,GBLUR,CSIQ/src_imgs/trolley.png,0.40696
+CSIQ/dst_imgs/BLUR/trolley.BLUR.5.png,GBLUR,CSIQ/src_imgs/trolley.png,0.60586
+CSIQ/dst_imgs/BLUR/turtle.BLUR.1.png,GBLUR,CSIQ/src_imgs/turtle.png,0.060455
+CSIQ/dst_imgs/BLUR/turtle.BLUR.2.png,GBLUR,CSIQ/src_imgs/turtle.png,0.23486
+CSIQ/dst_imgs/BLUR/turtle.BLUR.3.png,GBLUR,CSIQ/src_imgs/turtle.png,0.51809
+CSIQ/dst_imgs/BLUR/turtle.BLUR.4.png,GBLUR,CSIQ/src_imgs/turtle.png,0.74746
+CSIQ/dst_imgs/BLUR/turtle.BLUR.5.png,GBLUR,CSIQ/src_imgs/turtle.png,0.93289
+CSIQ/dst_imgs/BLUR/veggies.BLUR.1.png,GBLUR,CSIQ/src_imgs/veggies.png,0.056444
+CSIQ/dst_imgs/BLUR/veggies.BLUR.2.png,GBLUR,CSIQ/src_imgs/veggies.png,0.20629
+CSIQ/dst_imgs/BLUR/veggies.BLUR.3.png,GBLUR,CSIQ/src_imgs/veggies.png,0.3489
+CSIQ/dst_imgs/BLUR/veggies.BLUR.4.png,GBLUR,CSIQ/src_imgs/veggies.png,0.5214
+CSIQ/dst_imgs/BLUR/veggies.BLUR.5.png,GBLUR,CSIQ/src_imgs/veggies.png,0.71884
+CSIQ/dst_imgs/BLUR/woman.BLUR.1.png,GBLUR,CSIQ/src_imgs/woman.png,0.08644
+CSIQ/dst_imgs/BLUR/woman.BLUR.2.png,GBLUR,CSIQ/src_imgs/woman.png,0.19805
+CSIQ/dst_imgs/BLUR/woman.BLUR.3.png,GBLUR,CSIQ/src_imgs/woman.png,0.41992
+CSIQ/dst_imgs/BLUR/woman.BLUR.4.png,GBLUR,CSIQ/src_imgs/woman.png,0.61631
+CSIQ/dst_imgs/BLUR/woman.BLUR.5.png,GBLUR,CSIQ/src_imgs/woman.png,0.83392
+CSIQ/dst_imgs/contrast/1600.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/1600.png,0.056181
+CSIQ/dst_imgs/contrast/1600.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/1600.png,0.20097
+CSIQ/dst_imgs/contrast/1600.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/1600.png,0.31032
+CSIQ/dst_imgs/contrast/1600.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/1600.png,0.3706
+CSIQ/dst_imgs/contrast/aerial_city.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/aerial_city.png,0.037807
+CSIQ/dst_imgs/contrast/aerial_city.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/aerial_city.png,0.16309
+CSIQ/dst_imgs/contrast/aerial_city.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/aerial_city.png,0.36657
+CSIQ/dst_imgs/contrast/aerial_city.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/aerial_city.png,0.45259
+CSIQ/dst_imgs/contrast/boston.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/boston.png,0.11657
+CSIQ/dst_imgs/contrast/boston.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/boston.png,0.33916
+CSIQ/dst_imgs/contrast/boston.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/boston.png,0.60535
+CSIQ/dst_imgs/contrast/boston.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/boston.png,0.68973
+CSIQ/dst_imgs/contrast/bridge.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/bridge.png,0.036407
+CSIQ/dst_imgs/contrast/bridge.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/bridge.png,0.13947
+CSIQ/dst_imgs/contrast/bridge.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/bridge.png,0.34489
+CSIQ/dst_imgs/contrast/bridge.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/bridge.png,0.45752
+CSIQ/dst_imgs/contrast/butter_flower.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/butter_flower.png,0.069831
+CSIQ/dst_imgs/contrast/butter_flower.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/butter_flower.png,0.2564
+CSIQ/dst_imgs/contrast/butter_flower.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/butter_flower.png,0.5147
+CSIQ/dst_imgs/contrast/butter_flower.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/butter_flower.png,0.61489
+CSIQ/dst_imgs/contrast/cactus.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/cactus.png,0.11125
+CSIQ/dst_imgs/contrast/cactus.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/cactus.png,0.28516
+CSIQ/dst_imgs/contrast/cactus.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/cactus.png,0.40773
+CSIQ/dst_imgs/contrast/cactus.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/cactus.png,0.51673
+CSIQ/dst_imgs/contrast/child_swimming.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/child_swimming.png,0.14331
+CSIQ/dst_imgs/contrast/child_swimming.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/child_swimming.png,0.28902
+CSIQ/dst_imgs/contrast/child_swimming.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/child_swimming.png,0.55358
+CSIQ/dst_imgs/contrast/child_swimming.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/child_swimming.png,0.56512
+CSIQ/dst_imgs/contrast/couple.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/couple.png,0.097268
+CSIQ/dst_imgs/contrast/couple.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/couple.png,0.20982
+CSIQ/dst_imgs/contrast/couple.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/couple.png,0.35246
+CSIQ/dst_imgs/contrast/couple.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/couple.png,0.41676
+CSIQ/dst_imgs/contrast/elk.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/elk.png,0.075542
+CSIQ/dst_imgs/contrast/elk.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/elk.png,0.20037
+CSIQ/dst_imgs/contrast/elk.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/elk.png,0.39911
+CSIQ/dst_imgs/contrast/family.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/family.png,0.026858
+CSIQ/dst_imgs/contrast/family.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/family.png,0.14478
+CSIQ/dst_imgs/contrast/family.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/family.png,0.27952
+CSIQ/dst_imgs/contrast/family.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/family.png,0.37851
+CSIQ/dst_imgs/contrast/fisher.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/fisher.png,0.090437
+CSIQ/dst_imgs/contrast/fisher.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/fisher.png,0.21238
+CSIQ/dst_imgs/contrast/fisher.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/fisher.png,0.34156
+CSIQ/dst_imgs/contrast/fisher.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/fisher.png,0.38941
+CSIQ/dst_imgs/contrast/foxy.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/foxy.png,0.046767
+CSIQ/dst_imgs/contrast/foxy.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/foxy.png,0.18325
+CSIQ/dst_imgs/contrast/foxy.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/foxy.png,0.35608
+CSIQ/dst_imgs/contrast/foxy.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/foxy.png,0.46993
+CSIQ/dst_imgs/contrast/geckos.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/geckos.png,0.1054
+CSIQ/dst_imgs/contrast/geckos.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/geckos.png,0.23884
+CSIQ/dst_imgs/contrast/geckos.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/geckos.png,0.45238
+CSIQ/dst_imgs/contrast/lady_liberty.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/lady_liberty.png,0.091671
+CSIQ/dst_imgs/contrast/lady_liberty.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/lady_liberty.png,0.3052
+CSIQ/dst_imgs/contrast/lady_liberty.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/lady_liberty.png,0.64059
+CSIQ/dst_imgs/contrast/lake.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/lake.png,0.094336
+CSIQ/dst_imgs/contrast/lake.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/lake.png,0.26506
+CSIQ/dst_imgs/contrast/lake.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/lake.png,0.40973
+CSIQ/dst_imgs/contrast/lake.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/lake.png,0.50646
+CSIQ/dst_imgs/contrast/log_seaside.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/log_seaside.png,0.02342
+CSIQ/dst_imgs/contrast/log_seaside.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/log_seaside.png,0.1567
+CSIQ/dst_imgs/contrast/log_seaside.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/log_seaside.png,0.36906
+CSIQ/dst_imgs/contrast/log_seaside.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/log_seaside.png,0.45828
+CSIQ/dst_imgs/contrast/monument.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/monument.png,0.013177
+CSIQ/dst_imgs/contrast/monument.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/monument.png,0.14237
+CSIQ/dst_imgs/contrast/monument.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/monument.png,0.25813
+CSIQ/dst_imgs/contrast/monument.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/monument.png,0.32335
+CSIQ/dst_imgs/contrast/native_american.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/native_american.png,0.061938
+CSIQ/dst_imgs/contrast/native_american.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/native_american.png,0.22373
+CSIQ/dst_imgs/contrast/native_american.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/native_american.png,0.36959
+CSIQ/dst_imgs/contrast/native_american.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/native_american.png,0.45863
+CSIQ/dst_imgs/contrast/redwood.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/redwood.png,0.073889
+CSIQ/dst_imgs/contrast/redwood.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/redwood.png,0.198
+CSIQ/dst_imgs/contrast/redwood.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/redwood.png,0.38984
+CSIQ/dst_imgs/contrast/redwood.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/redwood.png,0.47089
+CSIQ/dst_imgs/contrast/roping.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/roping.png,0.056443
+CSIQ/dst_imgs/contrast/roping.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/roping.png,0.19213
+CSIQ/dst_imgs/contrast/roping.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/roping.png,0.37088
+CSIQ/dst_imgs/contrast/roping.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/roping.png,0.45037
+CSIQ/dst_imgs/contrast/rushmore.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/rushmore.png,0.12471
+CSIQ/dst_imgs/contrast/rushmore.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/rushmore.png,0.28959
+CSIQ/dst_imgs/contrast/rushmore.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/rushmore.png,0.39293
+CSIQ/dst_imgs/contrast/rushmore.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/rushmore.png,0.50578
+CSIQ/dst_imgs/contrast/shroom.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/shroom.png,0.08063
+CSIQ/dst_imgs/contrast/shroom.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/shroom.png,0.18437
+CSIQ/dst_imgs/contrast/shroom.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/shroom.png,0.33279
+CSIQ/dst_imgs/contrast/shroom.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/shroom.png,0.41019
+CSIQ/dst_imgs/contrast/snow_leaves.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/snow_leaves.png,0.04066
+CSIQ/dst_imgs/contrast/snow_leaves.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/snow_leaves.png,0.22094
+CSIQ/dst_imgs/contrast/snow_leaves.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/snow_leaves.png,0.31953
+CSIQ/dst_imgs/contrast/snow_leaves.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/snow_leaves.png,0.37876
+CSIQ/dst_imgs/contrast/sunsetcolor.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/sunsetcolor.png,0.052038
+CSIQ/dst_imgs/contrast/sunsetcolor.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/sunsetcolor.png,0.13097
+CSIQ/dst_imgs/contrast/sunsetcolor.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/sunsetcolor.png,0.2726
+CSIQ/dst_imgs/contrast/sunsetcolor.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/sunsetcolor.png,0.4131
+CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/sunset_sparrow.png,0.093578
+CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/sunset_sparrow.png,0.26049
+CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/sunset_sparrow.png,0.40187
+CSIQ/dst_imgs/contrast/sunset_sparrow.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/sunset_sparrow.png,0.4654
+CSIQ/dst_imgs/contrast/swarm.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/swarm.png,0.090613
+CSIQ/dst_imgs/contrast/swarm.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/swarm.png,0.31475
+CSIQ/dst_imgs/contrast/swarm.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/swarm.png,0.62527
+CSIQ/dst_imgs/contrast/trolley.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/trolley.png,0.056003
+CSIQ/dst_imgs/contrast/trolley.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/trolley.png,0.21499
+CSIQ/dst_imgs/contrast/trolley.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/trolley.png,0.433
+CSIQ/dst_imgs/contrast/trolley.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/trolley.png,0.49714
+CSIQ/dst_imgs/contrast/turtle.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/turtle.png,0.079246
+CSIQ/dst_imgs/contrast/turtle.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/turtle.png,0.19889
+CSIQ/dst_imgs/contrast/turtle.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/turtle.png,0.40659
+CSIQ/dst_imgs/contrast/turtle.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/turtle.png,0.55424
+CSIQ/dst_imgs/contrast/veggies.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/veggies.png,0.055548
+CSIQ/dst_imgs/contrast/veggies.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/veggies.png,0.20282
+CSIQ/dst_imgs/contrast/veggies.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/veggies.png,0.33172
+CSIQ/dst_imgs/contrast/veggies.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/veggies.png,0.38533
+CSIQ/dst_imgs/contrast/woman.contrast.1.png,Contrast Dist.,CSIQ/src_imgs/woman.png,0.068355
+CSIQ/dst_imgs/contrast/woman.contrast.2.png,Contrast Dist.,CSIQ/src_imgs/woman.png,0.17278
+CSIQ/dst_imgs/contrast/woman.contrast.3.png,Contrast Dist.,CSIQ/src_imgs/woman.png,0.40934
+CSIQ/dst_imgs/contrast/woman.contrast.4.png,Contrast Dist.,CSIQ/src_imgs/woman.png,0.46856
