@@ -1,4 +1,4 @@
-### An Unified Interface for IQA Datasets
+### A Unified Interface for IQA Datasets
 
 This repository contains a unified interface for **downloading and loading** 19 popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
 
