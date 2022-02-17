@@ -26,7 +26,7 @@ If you find our project useful, please cite our paper
 |          [LIVE](https://live.ece.utexas.edu/research/quality/subjective.htm)          | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 |            [A57](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=26)            | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
 | [LIVE_MD](https://live.ece.utexas.edu/research/Quality/live_multidistortedimage.html) | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
-|            [KADID-10k](http://database.mmsp-kn.de/kadid-10k-database.html)            | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
+|            [KADID-10k](http://database.mmsp-kn.de/kadid-10k-database.html)            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |                  [TID2008](http://www.ponomarenko.info/tid2008.htm)                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |                  [TID2013](http://www.ponomarenko.info/tid2013.htm)                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |           [CSIQ](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23)            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
