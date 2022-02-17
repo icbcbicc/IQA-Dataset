@@ -8,15 +8,15 @@ This repository is part of our [Bayesian IQA project](http://ivc.uwaterloo.ca/re
 
 If you find our project useful, please cite our paper
 ```
-@article{duanmu2021iqa,
-    title={Quantifying Visual Image Quality: A Bayesian View},
-    author={Duanmu, Zhengfang and Liu, Wentao and Wang, Zhongling and Wang, Zhou},
-    journal={Annual Review of Vision Science},
-    volume={7},
-    number={},
-    pages={},
-    year={2021}
-}
+@article{duanmu2021biqa,
+        author = {Duanmu, Zhengfang and Liu, Wentao and Wang, Zhongling and Wang, Zhou},
+        title = {Quantifying Visual Image Quality: A Bayesian View},
+        journal = {Annual Review of Vision Science},
+        volume = {7},
+        number = {1},
+        pages = {437-464},
+        year = {2021}
+        }
 ```
 
 #### Supported Datasets
