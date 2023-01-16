@@ -42,7 +42,7 @@ If you find our project useful, please cite our paper
 |            [KonIQ-10k](http://database.mmsp-kn.de/koniq-10k-database.html)            | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
 |                        [SPAQ](https://github.com/h4nwei/SPAQ)                         | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
 |         [Waterloo_Exploration](https://ece.uwaterloo.ca/~k29ma/exploration/)          | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
-|           [KADIS-700k](http://database.mmsp-kn.de/kadid-10k-database.html)            | :heavy_check_mark: | :heavy_check_mark: |                    |                    |
+|           [<del>KADIS-700k</del>](http://database.mmsp-kn.de/kadid-10k-database.html)            | :heavy_check_mark:  <sub>(code only)</sub> | :heavy_check_mark: |                    |                    |
 
 #### Basic Usage
 
