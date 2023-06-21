@@ -22,7 +22,7 @@ def download_dataset(remote_tar_file, dataset_root):
 
 def prepare_dataset(name, dataset_root, attributes, download):
 
-    score_synthesis_datasets = ["A57", "CIDIQ_MOS100", "CSIQ", "LIVE", "LIVE_MD", "MDID2013", "MDID2016", "SDIVL", "MDIVL", "TID2008", "TID2013", "VCLFER", "KADID-10k", "Toyama"]
+    score_synthesis_datasets = ["A57", "CIDIQ_MOS100", "CSIQ", "LIVE", "LIVE_MD", "MDID2013", "MDID2016", "SDIVL", "MDIVL", "TID2008", "TID2013", "VCLFER", "KADID-10k", "Toyama", "PDAP-HDDS"]
     score_authentic_datasets = ["LIVE_Challenge", "CID2013", "KonIQ-10k", "SPAQ"]
     nonscore_synthesis_datasets = ["Waterloo_Exploration"]
     nonscore_authentic_datasets = []

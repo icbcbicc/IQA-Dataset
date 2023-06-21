@@ -1,6 +1,6 @@
 ### A Unified Interface for IQA Datasets
 
-This repository contains a unified interface for **downloading and loading** 19 popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
+This repository contains a unified interface for **downloading and loading** 20 popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
 
 #### Citation
 
@@ -36,6 +36,7 @@ If you find our project useful, please cite our paper
 |           [SDIVL](http://www.ivl.disco.unimib.it/activities/imagequality/)            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |           [MDIVL](http://www.ivl.disco.unimib.it/activities/imagequality/)            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |                 [Toyama](http://mict.eng.u-toyama.ac.jp/mictdb.html)                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
+|           [PDAP-HDDS](https://sites.google.com/site/eelab907/zi-liao-ku)              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |                 [VCLFER](https://www.vcl.fer.hr/quality/vclfer.html)                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    |
 |     [LIVE_Challenge](https://live.ece.utexas.edu/research/ChallengeDB/index.html)     | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
 |               [CID2013](https://zenodo.org/record/2647033#.YDSi73X0kUc)               | :heavy_check_mark: |                    | :heavy_check_mark: |                    |
