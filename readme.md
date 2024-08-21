@@ -76,9 +76,13 @@ If you find our project useful, please cite our paper
 
 #### TODO
 
-- [ ] Add support for the [FLIVE](https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb) dataset.
-- [ ] Add support for the [BIQ2021](https://github.com/nisarahmedrana/BIQ2021) dataset.
-- [ ] Add TensorFlow support
-- [ ] Add MATLAB support
-- [ ] Provide more attributes if available.
-- [ ] Add support for the [IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/) dataset.
+- [ ] Add more datasets: [PaQ-2-PiQ](https://github.com/baidut/PaQ-2-PiQ), [AVA](https://github.com/mtobeiyf/ava_downloader), [PIPAL](https://www.jasongt.com/projectpages/pipal.html), [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis), [FLIVE](https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb), [BIQ2021](https://github.com/nisarahmedrana/BIQ2021), [IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/)
+- [ ] PyPI package
+- [ ] HuggingFace dataset
+- [ ] Provide more attributes
+- [ ] ~~Add TensorFlow support~~
+- [ ] ~~Add MATLAB support~~
+
+#### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=icbcbicc/IQA-Dataset&type=Date)](https://star-history.com/#icbcbicc/IQA-Dataset&Date)
