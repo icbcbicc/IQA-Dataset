@@ -48,9 +48,10 @@ If you find our project useful, please cite our paper
 |                 [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)                  |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |                 [FLIVE](https://github.com/niu-haoran/FLIVE_Database)                 |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |             [GFIQA](https://database.mmsp-kn.de/gfiqa-20k-database.html)              |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
-<!-- |                    [AVA](https://github.com/imfing/ava_downloader)                    |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    | -->
+|                    [AVA](https://github.com/imfing/ava_downloader)                    |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
+|                [PIQ2023](https://github.com/DXOMARK-Research/PIQ2023)                 |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |         [Waterloo_Exploration](https://ece.uwaterloo.ca/~k29ma/exploration/)          |             :heavy_check_mark:             | :heavy_check_mark: |                                                                                                                      |                    |
-<!-- |              [BAPPS](https://github.com/richzhang/PerceptualSimilarity)               |             :heavy_check_mark:             | :heavy_check_mark: |                                                         2AFC                                                         |                    | -->
+|              [BAPPS](https://github.com/richzhang/PerceptualSimilarity)               |             :heavy_check_mark:             | :heavy_check_mark: |                                                         2AFC                                                         |                    |
 |              [PieAPP](https://github.com/prashnani/PerceptualImageError)              |             :heavy_check_mark:             | :heavy_check_mark: |                                                         2AFC                                                         |                    |
 |      [<del>KADIS-700k</del>](http://database.mmsp-kn.de/kadid-10k-database.html)      | :heavy_check_mark:  <sub>(code only)</sub> | :heavy_check_mark: |                                                                                                                      |                    |
 
@@ -102,6 +103,7 @@ If you find our project useful, please cite our paper
 - [x] [GFIQA](https://database.mmsp-kn.de/gfiqa-20k-database.html)
 - [ ] [BAPPS](https://github.com/richzhang/PerceptualSimilarity)
 - [x] [PieAPP](https://github.com/prashnani/PerceptualImageError)
+- [x] [PIQ2023](https://github.com/DXOMARK-Research/PIQ2023)
 - [ ] ~~[IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/)~~
 - [ ] PyPI package
 - [ ] HuggingFace dataset
