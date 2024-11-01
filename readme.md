@@ -44,6 +44,7 @@ If you find our project useful, please cite our paper
 |            [KonIQ-10k](http://database.mmsp-kn.de/koniq-10k-database.html)            |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |                        [SPAQ](https://github.com/h4nwei/SPAQ)                         |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |           [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis)           |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
+|                 [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)                  |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |         [Waterloo_Exploration](https://ece.uwaterloo.ca/~k29ma/exploration/)          |             :heavy_check_mark:             | :heavy_check_mark: |                                                                                                                      |                    |
 |      [<del>KADIS-700k</del>](http://database.mmsp-kn.de/kadid-10k-database.html)      | :heavy_check_mark:  <sub>(code only)</sub> | :heavy_check_mark: |                                                                                                                      |                    |
 
@@ -92,7 +93,7 @@ If you find our project useful, please cite our paper
 - [ ] [PIPAL](https://www.jasongt.com/projectpages/pipal.html)
 - [x] [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 - [ ] [FLIVE](https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb)
-- [ ] [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)
+- [x] [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)
 - [ ] [IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/)
 - [ ] PyPI package
 - [ ] HuggingFace dataset
