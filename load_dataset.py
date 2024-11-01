@@ -23,9 +23,10 @@ def download_dataset(remote_tar_file, dataset_root):
 def prepare_dataset(name, dataset_root, attributes, download):
 
     score_synthesis_datasets = ["A57", "CIDIQ_MOS100", "CIDIQ_MOS50", "CSIQ", "LIVE", "LIVE_MD", "MDID2013", "MDID2016", "SDIVL", "MDIVL", "TID2008", "TID2013", "VCLFER", "KADID-10k", "Toyama", "PDAP-HDDS", "PIPAL"]
-    score_authentic_datasets = ["LIVE_Challenge", "CID2013", "KonIQ-10k", "SPAQ", "AADB", "BIQ2021", "FLIVE", "GFIQA"]
+    score_authentic_datasets = ["LIVE_Challenge", "CID2013", "KonIQ-10k", "SPAQ", "AADB", "BIQ2021", "FLIVE", "GFIQA", "AVA"]
     nonscore_synthesis_datasets = ["Waterloo_Exploration"]
     nonscore_authentic_datasets = []
+    special_datasets = ["BAPPS", "PieAPP"]
 
     available_datasets = score_synthesis_datasets + score_authentic_datasets + nonscore_synthesis_datasets + nonscore_authentic_datasets
 
@@ -37,6 +38,11 @@ def prepare_dataset(name, dataset_root, attributes, download):
         avail_attributes = ["dis_img_path", "dis_type", "ref_img_path"]
     elif name in nonscore_authentic_datasets:
         avail_attributes = ["dis_img_path", "dis_type"]
+    elif name in special_datasets:
+        if name == "BAPPS":
+            avail_attributes = ["ref_img_path", "dis_img_path0", "dis_img_path1", "dis_type", "judge/same", "split"]
+        elif name == "PieAPP":
+            avail_attributes = ["ref_img_path", "dis_img_path0", "dis_type0", "dis_img_path1", "dis_type1"]
     else:
         raise NotImplementedError(f"Dataset '{name}' is not supported. Currently supported datasets are: {available_datasets}.")
 
