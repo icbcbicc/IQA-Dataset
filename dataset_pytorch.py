@@ -28,9 +28,9 @@ class IQADatasetPyTorch(Dataset):
         for attr in self.attributes:
             sample[attr] = self.df[attr][idx]
             if attr == "dis_img_path":
-                sample["dis_img"] = self.transform(Image.open(os.path.join(self.dataset_root, self.df[attr][idx])))
+                sample["dis_img"] = self.transform(Image.open(os.path.join(self.dataset_root, self.df[attr][idx])).convert("RGB"))
             elif attr == "ref_img_path":
-                sample["ref_img"] = self.transform(Image.open(os.path.join(self.dataset_root, self.df[attr][idx])))
+                sample["ref_img"] = self.transform(Image.open(os.path.join(self.dataset_root, self.df[attr][idx])).convert("RGB"))
             elif attr == "score":
                 sample[attr] = float(self.df[attr][idx])
             else:
