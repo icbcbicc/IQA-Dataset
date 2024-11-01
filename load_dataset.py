@@ -16,14 +16,14 @@ def download_dataset(remote_tar_file, dataset_root):
     wget.download(remote_tar_file, out=local_tar_file, bar=bar_custom)
     with tarfile.open(local_tar_file) as z:
         z.extractall(dataset_root)
-    print(f"\n[*] Downloading finished, deleting the .tar file.")
+    print("\n[*] Downloading finished, deleting the .tar file.")
     os.remove(local_tar_file)
 
 
 def prepare_dataset(name, dataset_root, attributes, download):
 
     score_synthesis_datasets = ["A57", "CIDIQ_MOS100", "CIDIQ_MOS50", "CSIQ", "LIVE", "LIVE_MD", "MDID2013", "MDID2016", "SDIVL", "MDIVL", "TID2008", "TID2013", "VCLFER", "KADID-10k", "Toyama", "PDAP-HDDS"]
-    score_authentic_datasets = ["LIVE_Challenge", "CID2013", "KonIQ-10k", "SPAQ"]
+    score_authentic_datasets = ["LIVE_Challenge", "CID2013", "KonIQ-10k", "SPAQ", "AADB"]
     nonscore_synthesis_datasets = ["Waterloo_Exploration"]
     nonscore_authentic_datasets = []
 
