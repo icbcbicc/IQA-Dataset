@@ -39,13 +39,14 @@ If you find our project useful, please cite our paper
 |                 [Toyama](http://mict.eng.u-toyama.ac.jp/mictdb.html)                  |             :heavy_check_mark:             | :heavy_check_mark: |                                                  :heavy_check_mark:                                                  |                    |
 |            [PDAP-HDDS](https://sites.google.com/site/eelab907/zi-liao-ku)             |             :heavy_check_mark:             | :heavy_check_mark: |                                                  :heavy_check_mark:                                                  |                    |
 |                 [VCLFER](https://www.vcl.fer.hr/quality/vclfer.html)                  |             :heavy_check_mark:             | :heavy_check_mark: |                                                  :heavy_check_mark:                                                  |                    |
+|               [PIPAL](https://www.jasongt.com/projectpages/pipal.html)                |             :heavy_check_mark:             | :heavy_check_mark: |                                                  :heavy_check_mark:                                                  |                    |
 |     [LIVE_Challenge](https://live.ece.utexas.edu/research/ChallengeDB/index.html)     |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |               [CID2013](https://zenodo.org/record/2647033#.YDSi73X0kUc)               |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |            [KonIQ-10k](http://database.mmsp-kn.de/koniq-10k-database.html)            |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |                        [SPAQ](https://github.com/h4nwei/SPAQ)                         |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |           [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis)           |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |                 [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)                  |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
-|                 [FLIVE](https://github.com/niu-haoran/FLIVE_Database)                  |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
+|                 [FLIVE](https://github.com/niu-haoran/FLIVE_Database)                 |             :heavy_check_mark:             |                    |                                                  :heavy_check_mark:                                                  |                    |
 |         [Waterloo_Exploration](https://ece.uwaterloo.ca/~k29ma/exploration/)          |             :heavy_check_mark:             | :heavy_check_mark: |                                                                                                                      |                    |
 |      [<del>KADIS-700k</del>](http://database.mmsp-kn.de/kadid-10k-database.html)      | :heavy_check_mark:  <sub>(code only)</sub> | :heavy_check_mark: |                                                                                                                      |                    |
 
@@ -90,7 +91,7 @@ If you find our project useful, please cite our paper
 #### TODO
 
 - [ ] [AVA](https://github.com/mtobeiyf/ava_downloader)
-- [ ] [PIPAL](https://www.jasongt.com/projectpages/pipal.html)
+- [x] [PIPAL](https://www.jasongt.com/projectpages/pipal.html)
 - [x] [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 - [x] [FLIVE](https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb)
 - [x] [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)
