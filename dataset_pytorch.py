@@ -22,15 +22,22 @@ class IQADatasetPyTorch(Dataset):
     def __len__(self):
         return self.length
 
+    def _load_image(self, path):
+        return self.transform(Image.open(os.path.join(self.dataset_root, path)).convert("RGB"))
+
     def __getitem__(self, idx):
 
         sample = {}
         for attr in self.attributes:
             sample[attr] = self.df[attr][idx]
             if attr == "dis_img_path":
-                sample["dis_img"] = self.transform(Image.open(os.path.join(self.dataset_root, self.df[attr][idx])).convert("RGB"))
+                sample["dis_img"] = self._load_image(self.df[attr][idx])
+            elif attr == "dis_img_path0":
+                sample["dis_img0"] = self._load_image(self.df[attr][idx])
+            elif attr == "dis_img_path1":
+                sample["dis_img1"] = self._load_image(self.df[attr][idx])
             elif attr == "ref_img_path":
-                sample["ref_img"] = self.transform(Image.open(os.path.join(self.dataset_root, self.df[attr][idx])).convert("RGB"))
+                sample["ref_img"] = self._load_image(self.df[attr][idx])
             elif attr == "score":
                 sample[attr] = float(self.df[attr][idx])
             else:
