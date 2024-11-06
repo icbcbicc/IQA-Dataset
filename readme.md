@@ -1,6 +1,6 @@
 ### A Unified Interface for IQA Datasets
 
-This repository contains a unified interface for **downloading and loading** 20 popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
+This repository contains a unified interface for **downloading and loading** 30 popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
 
 #### Citation
 
@@ -95,18 +95,18 @@ If you find our project useful, please cite our paper
 
 #### TODO
 
-- [ ] [AVA](https://github.com/mtobeiyf/ava_downloader)
+- [ ] PyPI package
+- [ ] HuggingFace dataset
+- [x] [AVA](https://github.com/mtobeiyf/ava_downloader)
 - [x] [PIPAL](https://www.jasongt.com/projectpages/pipal.html)
 - [x] [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis)
 - [x] [FLIVE](https://github.com/niu-haoran/FLIVE_Database/blob/master/database_prep.ipynb)
 - [x] [BIQ2021](https://github.com/nisarahmedrana/BIQ2021)
 - [x] [GFIQA](https://database.mmsp-kn.de/gfiqa-20k-database.html)
-- [ ] [BAPPS](https://github.com/richzhang/PerceptualSimilarity)
+- [x] [BAPPS](https://github.com/richzhang/PerceptualSimilarity)
 - [x] [PieAPP](https://github.com/prashnani/PerceptualImageError)
 - [x] [PIQ2023](https://github.com/DXOMARK-Research/PIQ2023)
 - [ ] ~~[IVC](http://ivc.univ-nantes.fr/en/databases/Subjective_Database/)~~
-- [ ] PyPI package
-- [ ] HuggingFace dataset
 - [ ] Provide more attributes
 - [ ] ~~Add TensorFlow support~~
 - [ ] ~~Add MATLAB support~~
