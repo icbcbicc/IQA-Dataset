@@ -74,14 +74,14 @@ You can install this package in two ways:
 #### Basic Usage
 
 
-1. General Python (please refer [```demo.py```](demo.py))
+1. General Python (please refer [```demo.py```](iqadataset/demo.py))
 
     ```python
     from iqadataset import load_dataset
     dataset = load_dataset("LIVE")
     ```
 
-2. PyTorch (please refer [```demo_pytorch.py```](demo_pytorch.py))
+2. PyTorch (please refer [```demo_pytorch.py```](iqadataset/demo_pytorch.py))
 
     ```python
     from iqadataset import load_dataset_pytorch
@@ -90,14 +90,14 @@ You can install this package in two ways:
 
 #### Advanced Usage
 
-1. General Python (please refer [```demo.py```](demo.py))
+1. General Python (please refer [```demo.py```](iqadataset/demo.py))
 
     ```python
     from iqadataset import load_dataset
     dataset = load_dataset("LIVE", dataset_root="data", attributes=["dis_img_path", "dis_type", "ref_img_path", "score"], download=True)
     ```
 
-2. PyTorch (please refer [```demo_pytorch.py```](demo_pytorch.py))
+2. PyTorch (please refer [```demo_pytorch.py```](iqadataset/demo_pytorch.py))
 
     ```python
     from iqadataset import load_dataset_pytorch
