@@ -1,4 +1,4 @@
-from load_dataset import load_dataset
+from .load_dataset import load_dataset
 
 if __name__ == '__main__':
 

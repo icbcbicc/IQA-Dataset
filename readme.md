@@ -1,6 +1,6 @@
 ### A Unified Interface for IQA Datasets
 
-This repository contains a unified interface for **downloading and loading** 30 popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
+This repository contains a unified interface for downloading and loading **30** popular Image Quality Assessment (IQA) datasets. We provide codes for both general **Python** and **PyTorch**.
 
 #### Citation
 
@@ -55,24 +55,36 @@ If you find our project useful, please cite our paper
 |              [PieAPP](https://github.com/prashnani/PerceptualImageError)              |             :heavy_check_mark:             | :heavy_check_mark: |                                                         2AFC                                                         |                    |
 |      [<del>KADIS-700k</del>](http://database.mmsp-kn.de/kadid-10k-database.html)      | :heavy_check_mark:  <sub>(code only)</sub> | :heavy_check_mark: |                                                                                                                      |                    |
 
+#### Installation
+
+You can install this package in two ways:
+
+1. Install from PyPI (recommended)
+    ```shell
+    pip install iqadataset
+    ```
+
+2. Build from source
+    ```shell
+    git clone https://github.com/icbcbicc/IQA-Dataset.git
+    cd IQA-Dataset
+    pip install -e .
+    ```
+
 #### Basic Usage
 
-0. Prerequisites
-    ```shell
-    pip install wget
-    ```
 
 1. General Python (please refer [```demo.py```](demo.py))
 
     ```python
-    from load_dataset import load_dataset
+    from iqadataset import load_dataset
     dataset = load_dataset("LIVE")
     ```
 
 2. PyTorch (please refer [```demo_pytorch.py```](demo_pytorch.py))
 
     ```python
-    from load_dataset import load_dataset_pytorch
+    from iqadataset import load_dataset_pytorch
     dataset = load_dataset_pytorch("LIVE")
     ```
 
@@ -81,21 +93,21 @@ If you find our project useful, please cite our paper
 1. General Python (please refer [```demo.py```](demo.py))
 
     ```python
-    from load_dataset import load_dataset
+    from iqadataset import load_dataset
     dataset = load_dataset("LIVE", dataset_root="data", attributes=["dis_img_path", "dis_type", "ref_img_path", "score"], download=True)
     ```
 
 2. PyTorch (please refer [```demo_pytorch.py```](demo_pytorch.py))
 
     ```python
-    from load_dataset import load_dataset_pytorch
+    from iqadataset import load_dataset_pytorch
     transform = transforms.Compose([transforms.RandomCrop(size=64), transforms.ToTensor()])
     dataset = load_dataset_pytorch("LIVE", dataset_root="data", attributes=["dis_img_path", "dis_type", "ref_img_path", "score"], download=True, transform=transform)
     ```
 
 #### TODO
 
-- [ ] PyPI package
+- [x] PyPI package
 - [ ] HuggingFace dataset
 - [x] [AVA](https://github.com/mtobeiyf/ava_downloader)
 - [x] [PIPAL](https://www.jasongt.com/projectpages/pipal.html)

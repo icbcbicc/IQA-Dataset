@@ -1,7 +1,7 @@
 from torch.utils.data import DataLoader
 from torchvision import transforms
 
-from load_dataset import load_dataset_pytorch
+from .load_dataset import load_dataset_pytorch
 
 if __name__ == '__main__':
 

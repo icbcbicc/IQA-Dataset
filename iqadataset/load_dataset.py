@@ -1,6 +1,9 @@
 import os
 
-from dataset import IQADataset
+from torchvision import transforms
+
+from .dataset import IQADataset
+from .dataset_pytorch import IQADatasetPyTorch
 
 
 def download_dataset(remote_tar_file, dataset_root):
@@ -47,7 +50,7 @@ def prepare_dataset(name, dataset_root, attributes, download):
         raise NotImplementedError(f"Dataset '{name}' is not supported. Currently supported datasets are: {available_datasets}.")
 
     if attributes is not None:
-        assert type(attributes) == list
+        assert isinstance(attributes, list)
         for attr in attributes:
             if attr not in avail_attributes:
                 raise KeyError(f"[!] Attribute: {attr} is not available in {name}.")
@@ -77,13 +80,9 @@ def load_dataset(name, dataset_root="data", attributes=None, download=True):
 
 
 def load_dataset_pytorch(name, dataset_root="data", attributes=None, download=True, transform=None):
-    from torchvision import transforms
-
-    from dataset_pytorch import IQADatasetPyTorch
-
     if transform is None:
         transform = transforms.ToTensor()
-    csv_file = os.path.join("csv", name) + ".txt"
+    csv_file = os.path.join(os.path.dirname(__file__), "csv", name) + ".txt"
     attributes = prepare_dataset(name, dataset_root, attributes, download)
 
     return IQADatasetPyTorch(csv_file, name, dataset_root, attributes, transform)
