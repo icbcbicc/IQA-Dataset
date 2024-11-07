@@ -19,7 +19,7 @@ setup(
     ],
     include_package_data=True,
     package_data={
-        "iqadataset": ["iqadataset/csv/*.txt"]
+        "iqadataset": ["csv/*.txt"]
     },
     classifiers=[
         "Development Status :: 3 - Alpha",
