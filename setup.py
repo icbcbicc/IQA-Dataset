@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="iqadataset",
-    version="0.1.2",
+    version="0.1.3",
     description="A collection of Image Quality Assessment (IQA) datasets",
     long_description=open("readme.md").read(),
     long_description_content_type="text/markdown",
