@@ -64,10 +64,10 @@ def prepare_dataset(name, dataset_root, attributes, download):
     if not os.path.exists(dataset_dir):
         if download is True:
             remote_tar_file = f"http://ivc.uwaterloo.ca/database/IQADataset/{name}.tar"
-            print(f"[*] Cannnot find dataset '{name}'' in '{dataset_dir}', downloading it from '{remote_tar_file}'")
+            print(f"[*] Cannot find dataset '{name}' in '{dataset_dir}', downloading it from '{remote_tar_file}'")
             download_dataset(remote_tar_file, dataset_root)
         else:
-            raise FileNotFoundError(f"[!] Cannnot find dataset '{name}' in '{dataset_dir}', try setting 'download=True' or download it manually.")
+            raise FileNotFoundError(f"[!] Cannot find dataset '{name}' in '{dataset_dir}', try setting 'download=True' or download it manually.")
 
     return attributes
 
