@@ -73,7 +73,7 @@ def prepare_dataset(name, dataset_root, attributes, download):
 
 
 def load_dataset(name, dataset_root="data", attributes=None, download=True):
-    csv_file = os.path.join("csv", name) + ".txt"
+    csv_file = os.path.join(os.path.dirname(__file__), "csv", name) + ".txt"
     attributes = prepare_dataset(name, dataset_root, attributes, download)
 
     return IQADataset(csv_file, name, dataset_root, attributes)
